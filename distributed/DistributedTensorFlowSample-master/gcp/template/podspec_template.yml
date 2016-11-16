@@ -1,0 +1,17 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: {{name}}
+  labels:
+    app: tfserver
+spec:
+  containers:
+
+    - name: {{name}}
+      command: {{com}}
+      image: {{image}}
+      ports:
+        - containerPort: {{port}}
+
+  nodeSelector:
+    app: {{name}}
