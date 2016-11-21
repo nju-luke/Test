@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
-# @Time    : 15/11/2016 16:40
+# @Time    : 17/11/2016 14:46
 # @Author  : Luke
 # @Software: PyCharm
+
 
 from util import *
 from itertools import groupby
@@ -69,35 +70,44 @@ def cluster1(pts):
 
 
 def match(img_rgb):
-    img_gray = cv2.cvtColor(img_rgb,cv2.COLOR_BGR2YUV)[:,:,0]
+    img_gray = pre_processing(img_rgb)
     #todo  增强图片，利用幂次,(局部直方图均衡）---增加对比度
 
-    # clahe = cv2.createCLAHE(clipLimit=2.0, tileGridSize=(4,4))
-    # img_gray = clahe.apply(img_gray)
-    # plt.subplot(211), plt.imshow(img_gray, 'gray')
-    # plt.subplot(212), plt.imshow(img, 'gray')
-
     path = "numbers_1"
-    numbers = os.listdir(path)
+    w,h = 39,62
+    names, mat_templates = load_templates(path,(w,h))
     pts = []    #(pt[0],pt[1],label)
     # labels = []
 
-    for number in numbers:
-        template = cv2.imread(os.path.join(path,number))
-        template = cv2.resize(template,(42,64))
-        template = cv2.cvtColor(template, cv2.COLOR_BGR2YUV)[:, :, 0]
-        w, h = template.shape[::-1]
+    for name,template in zip(names,mat_templates):
         res = cv2.matchTemplate(img_gray,template,cv2.TM_CCOEFF_NORMED)
-        threshold = 0.3                                                  #todo 阈值设定
+        threshold = 0.25                                                  #todo 阈值设定
         #umpy.where(condition[, x, y])
         #Return elements, either from x or y, depending on condition. #If only condition is given, return condition.nonzero().
         loc = np.where( res >= threshold)
         loc = zip(*loc)
-        pts.extend([(l[0],l[1],number[0],res[l[0],l[1]]) for l in loc])
+        pts.extend([(l[0],l[1],name,res[l[0],l[1]]) for l in loc])
 
     pts = cluster_rows(pts)
     pts = cluster1(pts)
     print len(pts)
+
+
+    # part_img = img_gray[17:17 + h, 479:479 + w]
+    # sift = cv2.SIFT()
+    # bf = cv2.BFMatcher()
+    # kp1, des1 = sift.detectAndCompute(part_img, None)
+    # matched_numbers = []
+    # for template in mat_templates:
+    #     kp2, des2 = sift.detectAndCompute(template, None)
+    #     matches = bf.knnMatch(des1, des2, k=2)
+    #     # Apply ratio test
+    #     nb = 0.
+    #     for m, n in matches:
+    #         if m.distance < 0.8 * n.distance:
+    #             nb += 1.
+    #     matched_numbers.append(nb)
+    # print names[np.argmax(matched_numbers)]
 
     #todo 如果数字个数不符合规范，通过距离删除最不合适的
 
@@ -113,7 +123,7 @@ def match(img_rgb):
     plt.show()
 
 if __name__ == '__main__':
-    img_rgb = cv2.imread('cards/test.jpg')
+    img_rgb = cv2.imread('cards/test5.jpg')
     r = 1
     img_rgb = img_rgb[340 / r:433 / r, :, :]
 

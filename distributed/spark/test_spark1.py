@@ -8,7 +8,7 @@ from pyspark import SparkContext
 from pyspark import SparkConf
 
 conf = SparkConf()
-conf.setAppName("test_remote").setMaster("spark://127.0.0.1:7077")
+conf.setAppName("test_remote").setMaster("spark://172.16.122.128:7077")
 
 sc = SparkContext(conf=conf)
 

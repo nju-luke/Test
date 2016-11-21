@@ -66,6 +66,8 @@ pts2 = np.array([pts1[0],pts1[0]+np.array([0,length]),
         pts1[0]+np.array([length,0]),pts1[0]+np.array([length,length])]
                 ,'float32')
 
+print pts1,pts2
+
 M = cv2.getPerspectiveTransform(pts1,pts2)                   #变换矩阵
 new_img = cv2.warpPerspective(img_ori,M,(rows+int(pts1[0,0]),cols+int(pts1[0,1])))  #透视变换
 

@@ -5,11 +5,10 @@
 import numpy as np
 import cv2
 
-from test_openCV.test_LBP_c import core_LBP
 from test_openCV.cards.test_crop_and_filter import remove_logo_u
-from test_openCV.test_orb import matched_dis, drawMatches
 import matplotlib.pyplot as plt
 
+from test_openCV.cards.test_orb import drawMatches
 
 is_gray = True
 img1 = cv2.imread('测试集3交通银行金卡3.jpg',0)          # queryImage
