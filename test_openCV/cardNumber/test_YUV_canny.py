@@ -5,7 +5,7 @@
 
 from util import *
 
-img = cv2.imread("test.jpg")
+img = cv2.imread("cards/test.jpg")
 img = img[340:413, :, :]
 rows, cols, _ = np.shape(img)
 

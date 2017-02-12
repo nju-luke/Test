@@ -8,21 +8,26 @@ import cv2
 import os
 import signal
 
-from perspective_alignment_1 import perspective_alignment
+# from perspective_alignment_1 import dperspective_alignment
+import matplotlib.pyplot as plt
 
 
-def pre_processing(img, shape, n=0):
-    img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2YUV)[:, :, n]
 
-    img_gray = perspective_alignment(img_gray)
-    img_gray = cv2.resize(img_gray, shape)
+def pre_processing(img, shape = None, ch=0, align = True):
+    img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2YUV)[:, :, ch]
+    if align:
+        img_gray = dperspective_alignment(img_gray)
+
+    if shape:
+        img_gray = cv2.resize(img_gray, shape)
+
     # plt.imshow(img_gray)
     # plt.show()
     img_gray = np.array(img_gray, 'float') / 255
     hist1 = cv2.calcHist([img], [0], None, [256], [0.0, 255.0])
     weight_global = np.sum(np.array(np.squeeze(hist1)) * np.array(range(256)) / sum(hist1))
-    n = 2 ** ((weight_global - 127.) / 127)
-    return np.array(img_gray ** n * 255, 'uint8')
+    ch = 2 ** ((weight_global - 127.) / 127)
+    return np.array(img_gray ** ch * 255, 'uint8')
 
 
 def load_templates(path, shape):
@@ -31,7 +36,7 @@ def load_templates(path, shape):
     for name in names:
         template = cv2.imread(os.path.join(path, name))
         template = cv2.resize(template, shape)
-        template = pre_processing(template)
+        template = pre_processing(template,align=False)
         mat_templates.append(template)
 
     return names, mat_templates

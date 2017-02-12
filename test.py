@@ -3,64 +3,43 @@
 # @Author  : Luke
 # @Software: PyCharm
 
-"""
-This is the "example" module.
+import urllib2
+from multiprocessing.dummy import Pool as ThreadPool
 
-The example module supplies one function, factorial().  For example,
+urls = [
+    'http://www.python.org',
+    'http://www.python.org/about/',
+    'http://www.onlamp.com/pub/a/python/2003/04/17/metaclasses.html',
+    'http://www.python.org/doc/',
+    'http://www.python.org/download/',
+    'http://www.python.org/getit/',
+    'http://www.python.org/community/',
+    'https://wiki.python.org/moin/',
+    'http://planet.python.org/',
+    'https://wiki.python.org/moin/LocalUserGroups',
+    'http://www.python.org/psf/',
+    'http://docs.python.org/devguide/',
+    'http://www.python.org/community/awards/'
+    # etc..
+    ]
 
->>> factorial(5)
-120
-"""
+# Make the Pool of workers
+class Main():
+    def double(self,n):
+        return 2*n
 
-def factorial(n):
-    """Return the factorial of n, an exact integer >= 0.
+    def main(self):
+        def double(n):
+            return 2*n
 
-    If the result is small enough to fit in an int, return an int.
-    Else return a long.
+        pool = ThreadPool(4)
+        # Open the urls in their own threads
+        # and return the results
+        results = pool.map(double, urls)
+        #close the pool and wait for the work to finish
+        pool.close()
+        pool.join()
 
-    >>> [factorial(n) for n in range(6)]
-    [1, 1, 2, 6, 24, 120]
-    >>> [factorial(long(n)) for n in range(6)]
-    [1, 1, 2, 6, 24, 120]
-    >>> factorial(30)
-    265252859812191058636308480000000L
-    >>> factorial(30L)
-    265252859812191058636308480000000L
-    >>> factorial(-1)
-    Traceback (most recent call last):
-        ...
-    ValueError: n must be >= 0
-
-    Factorials of floats are OK, but the float must be an exact integer:
-    >>> factorial(30.1)
-    Traceback (most recent call last):
-        ...
-    ValueError: n must be exact integer
-    >>> factorial(30.0)
-    265252859812191058636308480000000L
-
-    It must also not be ridiculously large:
-    >>> factorial(1e100)
-    Traceback (most recent call last):
-        ...
-    OverflowError: n too large
-    """
-
-    import math
-    if not n >= 0:
-        raise ValueError("n must be >= 0")
-    if math.floor(n) != n:
-        raise ValueError("n must be exact integer")
-    if n+1 == n:  # catch a value like 1e300
-        raise OverflowError("n too large")
-    result = 1
-    factor = 2
-    while factor <= n:
-        result *= factor
-        factor += 1
-    return result
-
-
-if __name__ == "__main__":
-    import doctest
-    doctest.testmod()
+if __name__ == '__main__':
+    m = Main()
+    m.main()

@@ -1,47 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acdc1483-e2b4-40d0-8659-6ee74107f9fc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/numbers/0_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/numbers/0_w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/numbers/1_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/numbers/1_w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/numbers/2_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/numbers/2_w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/numbers/3_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/numbers/3_w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/numbers/4_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/numbers/4_w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/numbers/5_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/numbers/5_w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/numbers/7_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/numbers/7_w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/numbers/8_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/numbers/8_w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/numbers/9_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/numbers/9_w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/distributed/spark/test_class.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/test_server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/upload_files/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/upload_files/upload_file.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/cluster_3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/test_perspective_correction.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test_openCV/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test_openCV/test.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_openCV/cardNumber/numbers/6_b.jpg" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/numbers/6_b.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_openCV/cardNumber/numbers/6_w.jpg" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/numbers/6_w.jpg" />
+    <list default="true" id="acdc1483-e2b4-40d0-8659-6ee74107f9fc" name="Default" comment="add">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/distributed/spark/pyspark/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/distributed/spark/pyspark/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kenan.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kenan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opencv_tesseract/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opencv_tesseract/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/in.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/50_平安携程卡_2344.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/Test/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/Test/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/Test/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/Test/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/Test/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/sachin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/tutorial_1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/distributed/spark/pyspark/test_splearn.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/multi-processors.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_easygui.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/Video/perspective_alignment_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/Video/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/Video/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/crop_v1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/number_crop_y1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/number_crop_y2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/numbers_segmentation_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/perspective_alignment_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/haarcascade_russian_plate_number.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_openCV/test_perspective_correction_houghLine.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_signal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_tk.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_openCV/cardNumber/test.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/distributed/python_worker/__init__.py" afterPath="$PROJECT_DIR$/distributed/python_Pool/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/distributed/python_worker/main.py" afterPath="$PROJECT_DIR$/distributed/python_Pool/main.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/distributed/python_worker/pooling.py" afterPath="$PROJECT_DIR$/distributed/python_Pool/pooling.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_openCV/test_perspective_correction.py" afterPath="$PROJECT_DIR$/test_openCV/test_perspective_correction_contour.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_openCV/cardNumber/cards/test6.jpg" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/cards/test6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/distributed/spark/test_class.py" afterPath="$PROJECT_DIR$/distributed/spark/test_class.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/distributed/spark/test_spark1.py" afterPath="$PROJECT_DIR$/distributed/spark/test_spark1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service/未命名文件夹/server_v1.py" afterPath="$PROJECT_DIR$/service/未命名文件夹/server_v1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_openCV/QR/QR_correction_contour.py" afterPath="$PROJECT_DIR$/test_openCV/QR/QR_correction_contour.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_openCV/QR/QR_correction_lines.py" afterPath="$PROJECT_DIR$/test_openCV/QR/QR_correction_lines.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_openCV/cardNumber/cluster_2.py" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/cluster_2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_openCV/cardNumber/test_YUV_canny.py" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/test_YUV_canny.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_openCV/cardNumber/util.py" afterPath="$PROJECT_DIR$/test_openCV/cardNumber/util.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_openCV/cards/test_sift.py" afterPath="$PROJECT_DIR$/test_openCV/cards/test_sift.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_openCV/test.py" afterPath="$PROJECT_DIR$/test_openCV/test.py" />
     </list>
     <ignored path="Test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,63 +68,81 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Test$cluster_3.coverage" NAME="cluster_3 Coverage Results" MODIFIED="1479373826724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/cardNumber" />
     <SUITE FILE_PATH="coverage/Test$test_xlsx.coverage" NAME="test_xlsx Coverage Results" MODIFIED="1475228863266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Test$test_spark.coverage" NAME="test_spark Coverage Results" MODIFIED="1478245141727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed/spark" />
-    <SUITE FILE_PATH="coverage/Test$test_opencv.coverage" NAME="test_opencv Coverage Results" MODIFIED="1476454426142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
-    <SUITE FILE_PATH="coverage/Test$test_hist_HSV.coverage" NAME="test_hist_HSV Coverage Results" MODIFIED="1478184756173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
-    <SUITE FILE_PATH="coverage/Test$cv_test.coverage" NAME="cv_test Coverage Results" MODIFIED="1479114901085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/cardNumber" />
-    <SUITE FILE_PATH="coverage/Test$sever_test.coverage" NAME="sever_test Coverage Results" MODIFIED="1477313563377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed" />
-    <SUITE FILE_PATH="coverage/Test$test_server.coverage" NAME="test_server Coverage Results" MODIFIED="1479731409527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/service" />
-    <SUITE FILE_PATH="coverage/Test$test_logging.coverage" NAME="test_logging Coverage Results" MODIFIED="1477364519487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Test$convnet_mnist.coverage" NAME="convnet_mnist Coverage Results" MODIFIED="1477318366789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed/tflearn" />
-    <SUITE FILE_PATH="coverage/Test$test_Laplacian.coverage" NAME="test_Laplacian Coverage Results" MODIFIED="1478080376449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
-    <SUITE FILE_PATH="coverage/Test$test_YUV_canny.coverage" NAME="test_YUV_canny Coverage Results" MODIFIED="1479117254488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/cardNumber" />
-    <SUITE FILE_PATH="coverage/Test$test_sift.coverage" NAME="test_sift Coverage Results" MODIFIED="1479653337582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/cards" />
-    <SUITE FILE_PATH="coverage/Test$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1479200416469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/cardNumber" />
-    <SUITE FILE_PATH="coverage/Test$test_spark1.coverage" NAME="test_spark1 Coverage Results" MODIFIED="1479737060473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/distributed/spark" />
-    <SUITE FILE_PATH="coverage/Test$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1478966488827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/cards" />
-    <SUITE FILE_PATH="coverage/Test$test_Image.coverage" NAME="test_Image Coverage Results" MODIFIED="1476348093070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Test$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1476346509926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed/python_worker" />
-    <SUITE FILE_PATH="coverage/Test$QR_correction_contour.coverage" NAME="QR_correction_contour Coverage Results" MODIFIED="1479611844081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/QR" />
-    <SUITE FILE_PATH="coverage/Test$server3_ps.coverage" NAME="server3_ps Coverage Results" MODIFIED="1477117230485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed" />
-    <SUITE FILE_PATH="coverage/Test$QR.coverage" NAME="QR Coverage Results" MODIFIED="1478855929339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/QR" />
-    <SUITE FILE_PATH="coverage/Test$test_spark1__1_.coverage" NAME="test_spark1 (1) Coverage Results" MODIFIED="1478657482080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/distributed/spark" />
-    <SUITE FILE_PATH="coverage/Test$test_unittest.coverage" NAME="test_unittest Coverage Results" MODIFIED="1478482077515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Test$client.coverage" NAME="client Coverage Results" MODIFIED="1477317439359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed" />
-    <SUITE FILE_PATH="coverage/Test$test.coverage" NAME="test Coverage Results" MODIFIED="1479699270379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
-    <SUITE FILE_PATH="coverage/Test$test_sift1.coverage" NAME="test_sift1 Coverage Results" MODIFIED="1477805513853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
-    <SUITE FILE_PATH="coverage/Test$test_opencv_255or1.coverage" NAME="test_opencv_255or1 Coverage Results" MODIFIED="1477490110501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
-    <SUITE FILE_PATH="coverage/Test$raw.coverage" NAME="raw Coverage Results" MODIFIED="1477133378597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed" />
-    <SUITE FILE_PATH="coverage/Test$two_model_keras.coverage" NAME="two_model_keras Coverage Results" MODIFIED="1477644894523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/tflearn" />
-    <SUITE FILE_PATH="coverage/Test$test_surf.coverage" NAME="test_surf Coverage Results" MODIFIED="1478224086791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
-    <SUITE FILE_PATH="coverage/Test$hist.coverage" NAME="hist Coverage Results" MODIFIED="1477669619354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
-    <SUITE FILE_PATH="coverage/Test$contours.coverage" NAME="contours Coverage Results" MODIFIED="1479115900609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/cardNumber" />
-    <SUITE FILE_PATH="coverage/Test$pooling.coverage" NAME="pooling Coverage Results" MODIFIED="1477807384805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed/python_worker" />
-    <SUITE FILE_PATH="coverage/Test$server_v3.coverage" NAME="server_v3 Coverage Results" MODIFIED="1479718260160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/service" />
     <SUITE FILE_PATH="coverage/Test$testGetAndPost.coverage" NAME="testGetAndPost Coverage Results" MODIFIED="1479718288364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/service" />
-    <SUITE FILE_PATH="coverage/Test$upload_file.coverage" NAME="upload_file Coverage Results" MODIFIED="1479731965643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/service/upload_files" />
-    <SUITE FILE_PATH="coverage/Test$testJieba.coverage" NAME="testJieba Coverage Results" MODIFIED="1471828312209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Test$distributed_mnist.coverage" NAME="distributed_mnist Coverage Results" MODIFIED="1477315270994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed" />
-    <SUITE FILE_PATH="coverage/Test$test_channel.coverage" NAME="test_channel Coverage Results" MODIFIED="1477880614815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
-    <SUITE FILE_PATH="coverage/Test$QR_correction_lines.coverage" NAME="QR_correction_lines Coverage Results" MODIFIED="1479611724649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/QR" />
-    <SUITE FILE_PATH="coverage/Test$test_LBP.coverage" NAME="test_LBP Coverage Results" MODIFIED="1478077338632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
-    <SUITE FILE_PATH="coverage/Test$test_sift__1_.coverage" NAME="test_sift (1) Coverage Results" MODIFIED="1477815814412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
-    <SUITE FILE_PATH="coverage/Test$server1.coverage" NAME="server1 Coverage Results" MODIFIED="1477105162101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed" />
-    <SUITE FILE_PATH="coverage/Test$test_spark_with_tensorflow.coverage" NAME="test_spark_with_tensorflow Coverage Results" MODIFIED="1478596508310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/distributed/spark" />
-    <SUITE FILE_PATH="coverage/Test$test_orb.coverage" NAME="test_orb Coverage Results" MODIFIED="1478171928980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
-    <SUITE FILE_PATH="coverage/Test$tesp_hist.coverage" NAME="tesp_hist Coverage Results" MODIFIED="1477919712538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
-    <SUITE FILE_PATH="coverage/Test$util.coverage" NAME="util Coverage Results" MODIFIED="1479372699047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/cardNumber" />
-    <SUITE FILE_PATH="coverage/Test$main.coverage" NAME="main Coverage Results" MODIFIED="1478872041127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from github/perspective-correction-master 2/src" />
-    <SUITE FILE_PATH="coverage/Test$test_LBP_c.coverage" NAME="test_LBP_c Coverage Results" MODIFIED="1478079698437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
-    <SUITE FILE_PATH="coverage/Test$server2.coverage" NAME="server2 Coverage Results" MODIFIED="1477115406399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed" />
+    <SUITE FILE_PATH="coverage/Test$util.coverage" NAME="util Coverage Results" MODIFIED="1480386285656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/cardNumber" />
     <SUITE FILE_PATH="coverage/Test$test_orb_flann.coverage" NAME="test_orb_flann Coverage Results" MODIFIED="1478082742513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
-    <SUITE FILE_PATH="coverage/Test$test_submit.coverage" NAME="test_submit Coverage Results" MODIFIED="1476933858929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed/spark" />
-    <SUITE FILE_PATH="coverage/Test$testCsv.coverage" NAME="testCsv Coverage Results" MODIFIED="1476348134660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$dushu.coverage" NAME="dushu Coverage Results" MODIFIED="1481788308469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencv_tesseract" />
+    <SUITE FILE_PATH="coverage/Test$sift_hist_spark_1.coverage" NAME="sift_hist_spark_1 Coverage Results" MODIFIED="1480088461747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../cardRecognizer" />
+    <SUITE FILE_PATH="coverage/Test$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1476346509926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed/python_worker" />
+    <SUITE FILE_PATH="coverage/Test$test_splearn.coverage" NAME="test_splearn Coverage Results" MODIFIED="1484826645995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/distributed/spark/pyspark" />
+    <SUITE FILE_PATH="coverage/Test$test_orb.coverage" NAME="test_orb Coverage Results" MODIFIED="1478171928980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
+    <SUITE FILE_PATH="coverage/Test$test_class.coverage" NAME="test_class Coverage Results" MODIFIED="1480318468107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/distributed/spark" />
+    <SUITE FILE_PATH="coverage/Test$idcard.coverage" NAME="idcard Coverage Results" MODIFIED="1481770201300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencv_tesseract" />
+    <SUITE FILE_PATH="coverage/Test$hist.coverage" NAME="hist Coverage Results" MODIFIED="1477669619354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
+    <SUITE FILE_PATH="coverage/Test$test_sift.coverage" NAME="test_sift Coverage Results" MODIFIED="1484840230706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/cards" />
+    <SUITE FILE_PATH="coverage/Test$distributed_mnist.coverage" NAME="distributed_mnist Coverage Results" MODIFIED="1477315270994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed" />
+    <SUITE FILE_PATH="coverage/Test$test_perspective_correction_contour.coverage" NAME="test_perspective_correction_contour Coverage Results" MODIFIED="1481192036897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
+    <SUITE FILE_PATH="coverage/Test$test_spark_with_tensorflow.coverage" NAME="test_spark_with_tensorflow Coverage Results" MODIFIED="1478596508310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/distributed/spark" />
+    <SUITE FILE_PATH="coverage/Test$cv_test.coverage" NAME="cv_test Coverage Results" MODIFIED="1479114901085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/cardNumber" />
+    <SUITE FILE_PATH="coverage/Test$test_wxPython.coverage" NAME="test_wxPython Coverage Results" MODIFIED="1481096628175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$main.coverage" NAME="main Coverage Results" MODIFIED="1478872041127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from github/perspective-correction-master 2/src" />
+    <SUITE FILE_PATH="coverage/Test$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1485164878634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
+    <SUITE FILE_PATH="coverage/Test$test_sift__1_.coverage" NAME="test_sift (1) Coverage Results" MODIFIED="1477815814412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
+    <SUITE FILE_PATH="coverage/Test$test_YUV_canny.coverage" NAME="test_YUV_canny Coverage Results" MODIFIED="1480576038740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/cardNumber" />
+    <SUITE FILE_PATH="coverage/Test$tesp_hist.coverage" NAME="tesp_hist Coverage Results" MODIFIED="1477919712538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
+    <SUITE FILE_PATH="coverage/Test$test_opencv.coverage" NAME="test_opencv Coverage Results" MODIFIED="1476454426142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
+    <SUITE FILE_PATH="coverage/Test$test_spark1__1_.coverage" NAME="test_spark1 (1) Coverage Results" MODIFIED="1478657482080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/distributed/spark" />
+    <SUITE FILE_PATH="coverage/Test$test_server.coverage" NAME="test_server Coverage Results" MODIFIED="1479731409527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/service" />
+    <SUITE FILE_PATH="coverage/Test$test_opencv_255or1.coverage" NAME="test_opencv_255or1 Coverage Results" MODIFIED="1477490110501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
+    <SUITE FILE_PATH="coverage/Test$upload_file.coverage" NAME="upload_file Coverage Results" MODIFIED="1479731965643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/service/upload_files" />
+    <SUITE FILE_PATH="coverage/Test$test_LBP.coverage" NAME="test_LBP Coverage Results" MODIFIED="1478077338632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
     <SUITE FILE_PATH="coverage/Test$test_Ansj.coverage" NAME="test_Ansj Coverage Results" MODIFIED="1471827467444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Test$test_HanLP.coverage" NAME="test_HanLP Coverage Results" MODIFIED="1478573159587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Test$cluster_2.coverage" NAME="cluster_2 Coverage Results" MODIFIED="1479365831851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/cardNumber" />
+    <SUITE FILE_PATH="coverage/Test$splearn.coverage" NAME="splearn Coverage Results" MODIFIED="1479781853381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/distributed/spark/pyspark" />
+    <SUITE FILE_PATH="coverage/Test$QR.coverage" NAME="QR Coverage Results" MODIFIED="1478855929339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/QR" />
+    <SUITE FILE_PATH="coverage/Test$two_model_keras.coverage" NAME="two_model_keras Coverage Results" MODIFIED="1477644894523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/tflearn" />
+    <SUITE FILE_PATH="coverage/Test$test_spark1.coverage" NAME="test_spark1 Coverage Results" MODIFIED="1479803357449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/distributed/spark" />
+    <SUITE FILE_PATH="coverage/Test$QR_correction_contour.coverage" NAME="QR_correction_contour Coverage Results" MODIFIED="1479611844081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/QR" />
+    <SUITE FILE_PATH="coverage/Test$test_unittest.coverage" NAME="test_unittest Coverage Results" MODIFIED="1478482077515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$test_hist_HSV.coverage" NAME="test_hist_HSV Coverage Results" MODIFIED="1478184756173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
+    <SUITE FILE_PATH="coverage/Test$convnet_mnist.coverage" NAME="convnet_mnist Coverage Results" MODIFIED="1477318366789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed/tflearn" />
+    <SUITE FILE_PATH="coverage/Test$test_surf.coverage" NAME="test_surf Coverage Results" MODIFIED="1478224086791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
+    <SUITE FILE_PATH="coverage/Test$testCsv.coverage" NAME="testCsv Coverage Results" MODIFIED="1476348134660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$test_Laplacian.coverage" NAME="test_Laplacian Coverage Results" MODIFIED="1478080376449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
+    <SUITE FILE_PATH="coverage/Test$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1483924057223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/Video" />
+    <SUITE FILE_PATH="coverage/Test$server_v3.coverage" NAME="server_v3 Coverage Results" MODIFIED="1479718260160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/service" />
+    <SUITE FILE_PATH="coverage/Test$raw.coverage" NAME="raw Coverage Results" MODIFIED="1477133378597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed" />
+    <SUITE FILE_PATH="coverage/Test$number_crop_y2.coverage" NAME="number_crop_y2 Coverage Results" MODIFIED="1481543033916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/cardNumber" />
+    <SUITE FILE_PATH="coverage/Test$test_HanLP.coverage" NAME="test_HanLP Coverage Results" MODIFIED="1478573159587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$testJieba.coverage" NAME="testJieba Coverage Results" MODIFIED="1471828312209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$test_LBP_c.coverage" NAME="test_LBP_c Coverage Results" MODIFIED="1478079698437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
+    <SUITE FILE_PATH="coverage/Test$server3_ps.coverage" NAME="server3_ps Coverage Results" MODIFIED="1477117230485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed" />
+    <SUITE FILE_PATH="coverage/Test$test_perspective_correction.coverage" NAME="test_perspective_correction Coverage Results" MODIFIED="1479954661860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
+    <SUITE FILE_PATH="coverage/Test$test_submit.coverage" NAME="test_submit Coverage Results" MODIFIED="1476933858929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed/spark" />
+    <SUITE FILE_PATH="coverage/Test$.coverage" NAME=" Coverage Results" MODIFIED="1480088881088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Test$multi_processors.coverage" NAME="multi-processors Coverage Results" MODIFIED="1481772666354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/service" />
+    <SUITE FILE_PATH="coverage/Test$test_sift1.coverage" NAME="test_sift1 Coverage Results" MODIFIED="1477805513853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
+    <SUITE FILE_PATH="coverage/Test$server1.coverage" NAME="server1 Coverage Results" MODIFIED="1477105162101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed" />
+    <SUITE FILE_PATH="coverage/Test$crop_v1.coverage" NAME="crop_v1 Coverage Results" MODIFIED="1481016509106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/cardNumber" />
+    <SUITE FILE_PATH="coverage/Test$client.coverage" NAME="client Coverage Results" MODIFIED="1477317439359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed" />
+    <SUITE FILE_PATH="coverage/Test$test_tk.coverage" NAME="test_tk Coverage Results" MODIFIED="1481178239512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$QR_correction_lines.coverage" NAME="QR_correction_lines Coverage Results" MODIFIED="1479611724649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/QR" />
+    <SUITE FILE_PATH="coverage/Test$test.coverage" NAME="test Coverage Results" MODIFIED="1482148048989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/service" />
+    <SUITE FILE_PATH="coverage/Test$number_crop.coverage" NAME="number_crop Coverage Results" MODIFIED="1480390400415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/cardNumber" />
+    <SUITE FILE_PATH="coverage/Test$test_logging.coverage" NAME="test_logging Coverage Results" MODIFIED="1477364519487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$test_channel.coverage" NAME="test_channel Coverage Results" MODIFIED="1477880614815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
     <SUITE FILE_PATH="coverage/Test$client1.coverage" NAME="client1 Coverage Results" MODIFIED="1477144700873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed" />
+    <SUITE FILE_PATH="coverage/Test$perspective_alignment_1.coverage" NAME="perspective_alignment_1 Coverage Results" MODIFIED="1481199353175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
+    <SUITE FILE_PATH="coverage/Test$test_spark.coverage" NAME="test_spark Coverage Results" MODIFIED="1478245141727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed/spark" />
+    <SUITE FILE_PATH="coverage/Test$test_signal.coverage" NAME="test_signal Coverage Results" MODIFIED="1481013694879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$test_Image.coverage" NAME="test_Image Coverage Results" MODIFIED="1476348093070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$numbers_segmentation_1.coverage" NAME="numbers_segmentation_1 Coverage Results" MODIFIED="1481543981390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/cardNumber" />
+    <SUITE FILE_PATH="coverage/Test$sever_test.coverage" NAME="sever_test Coverage Results" MODIFIED="1477313563377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed" />
+    <SUITE FILE_PATH="coverage/Test$pooling.coverage" NAME="pooling Coverage Results" MODIFIED="1477807384805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed/python_worker" />
+    <SUITE FILE_PATH="coverage/Test$server2.coverage" NAME="server2 Coverage Results" MODIFIED="1477115406399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/distributed" />
     <SUITE FILE_PATH="coverage/Test$linear_regression.coverage" NAME="linear_regression Coverage Results" MODIFIED="1476588063824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow/tflearn" />
-    <SUITE FILE_PATH="coverage/Test$test_class.coverage" NAME="test_class Coverage Results" MODIFIED="1479738311459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/distributed/spark" />
+    <SUITE FILE_PATH="coverage/Test$test_perspective_correction_houghLine.coverage" NAME="test_perspective_correction_houghLine Coverage Results" MODIFIED="1480054806427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV" />
+    <SUITE FILE_PATH="coverage/Test$contours.coverage" NAME="contours Coverage Results" MODIFIED="1479115900609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_openCV/cardNumber" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -123,44 +153,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="upload_file.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/upload_files/upload_file.py">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_openCV/Video/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="28" selection-end-column="44" />
+            <state relative-caret-position="646">
+              <caret line="38" column="50" lean-forward="false" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
               <folding>
-                <element signature="e#94#115#0" expanded="true" />
+                <element signature="e#94#125#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/upload_files/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GetBrand.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/GetBrand.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="server_v3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/server_v3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -168,34 +168,90 @@
       <file leaf-file-name="test_spark1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/distributed/spark/test_spark1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-              <folding>
-                <element signature="e#92#124#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="391">
+              <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_class.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/distributed/spark/test_class.py">
+      <file leaf-file-name="import.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distributed/spark/import.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_splearn.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distributed/spark/pyspark/test_splearn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_sift.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_openCV/cards/test_sift.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="22" column="11" lean-forward="false" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_openCV/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_logging.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_logging.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="35" column="47" lean-forward="false" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pdf.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/anaconda/lib/python2.7/site-packages/PyPDF2/pdf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2431">
+              <caret line="148" column="39" lean-forward="false" selection-start-line="148" selection-start-column="38" selection-end-line="148" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_sift_flann.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_openCV/cards/test_sift_flann.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="util.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_openCV/Video/util.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="11" selection-end-column="28" />
+              <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
               <folding>
-                <element signature="e#93#104#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_server.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/test_server.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-              <folding>
-                <element signature="e#94#115#0" expanded="true" />
+                <element signature="e#93#107#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -213,63 +269,77 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>FEATURE_EVALUATOR_HAAR</find>
+      <find>img_gray</find>
+      <find>img_new</find>
+      <find>thre</find>
+      <find>pre_processing_x</find>
+      <find>self.img_new</find>
+      <find>print</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test_openCV/test_channel.py" />
-        <option value="$PROJECT_DIR$/test_openCV/test_crop_and_filter.py" />
-        <option value="$PROJECT_DIR$/test_openCV/tesp_hist.py" />
-        <option value="$PROJECT_DIR$/test_openCV/test_BLP.py" />
-        <option value="$PROJECT_DIR$/test_openCV/test_LBP.py" />
-        <option value="$PROJECT_DIR$/test_openCV/test_LBP_c.py" />
-        <option value="$PROJECT_DIR$/test_openCV/test_Laplacian.py" />
-        <option value="$PROJECT_DIR$/test_openCV/test_orb_flann.py" />
-        <option value="$PROJECT_DIR$/test_openCV/test_orb.py" />
-        <option value="$PROJECT_DIR$/test_openCV/test_sift.py" />
-        <option value="$PROJECT_DIR$/test_openCV/test_hist_HSV.py" />
-        <option value="$PROJECT_DIR$/test_openCV/test_surf.py" />
-        <option value="$PROJECT_DIR$/test_openCV/test.css" />
-        <option value="$PROJECT_DIR$/test_openCV/test.html" />
-        <option value="$PROJECT_DIR$/tensorflow/distributed/spark/test_spark_with_tensorflow.py" />
-        <option value="$PROJECT_DIR$/tensorflow/distributed/spark/test_spark.py" />
-        <option value="$PROJECT_DIR$/tensorflow/distributed/spark/test_spark1.py" />
-        <option value="$PROJECT_DIR$/test_unittest.py" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/test_HanLP.py" />
-        <option value="$PROJECT_DIR$/distributed/spark/test_spark_with_tensorflow.py" />
-        <option value="$PROJECT_DIR$/test_openCV/QR.py" />
-        <option value="$PROJECT_DIR$/test_openCV/QR/QR.py" />
-        <option value="$PROJECT_DIR$/test_openCV/QR/c++code.css" />
-        <option value="$PROJECT_DIR$/test_openCV/QR/test.py" />
-        <option value="$PROJECT_DIR$/test_openCV/QR/QR_correction.py" />
-        <option value="$PROJECT_DIR$/projects from github/perspective-correction-master/perspective.py" />
-        <option value="$PROJECT_DIR$/projects from github/perspective-correction-master/test.py" />
-        <option value="$PROJECT_DIR$/projects from github/perspective-correction-master 2/src/perspective.py" />
         <option value="$PROJECT_DIR$/test_openCV/cards/test.py" />
         <option value="$PROJECT_DIR$/test_openCV/cardNumber/cv_test.py" />
         <option value="$PROJECT_DIR$/test_openCV/cardNumber/contours.py" />
         <option value="$PROJECT_DIR$/test_openCV/cardNumber/cluster!.py" />
         <option value="$PROJECT_DIR$/test_openCV/cardNumber/cluster_1.py" />
-        <option value="$PROJECT_DIR$/test_openCV/cardNumber/test.py" />
         <option value="$PROJECT_DIR$/test_openCV/cardNumber/cluster_2.py" />
-        <option value="$PROJECT_DIR$/test_openCV/cardNumber/test_YUV_canny.py" />
         <option value="$PROJECT_DIR$/test_openCV/cardNumber/cluster_3.py" />
         <option value="$PROJECT_DIR$/test_openCV/cards/test_hist.py" />
-        <option value="$PROJECT_DIR$/test_openCV/cardNumber/util.py" />
         <option value="$PROJECT_DIR$/test_openCV/QR/QR_correction_lines.py" />
         <option value="$PROJECT_DIR$/test_openCV/QR/QR_correction_contour.py" />
-        <option value="$PROJECT_DIR$/test_openCV/test.py" />
-        <option value="$PROJECT_DIR$/test_openCV/cards/test_sift.py" />
         <option value="$PROJECT_DIR$/test_openCV/test_perspective_correction.py" />
         <option value="$PROJECT_DIR$/service/未命名文件夹/server_v1.py" />
         <option value="$PROJECT_DIR$/service/test_server.py" />
         <option value="$PROJECT_DIR$/service/upload_files/upload_file.py" />
         <option value="$PROJECT_DIR$/service/upload_files/index.html" />
+        <option value="$PROJECT_DIR$/distributed/spark/pyspark/splearn.py" />
         <option value="$PROJECT_DIR$/distributed/spark/test_spark1.py" />
+        <option value="$PROJECT_DIR$/HTML/tutorial_1.html" />
+        <option value="$PROJECT_DIR$/test_openCV/test_perspective_correction_contour.py" />
         <option value="$PROJECT_DIR$/distributed/spark/test_class.py" />
+        <option value="$USER_HOME$/anaconda/share/spark-2.0.0_preview/python/pyspark/accumulators.py" />
+        <option value="$APPLICATION_HOME_DIR$/helpers/pydev/pydevconsole.py" />
+        <option value="$PROJECT_DIR$/test_openCV/cardNumber/util.py" />
+        <option value="$PROJECT_DIR$/test_openCV/cardNumber/test.py" />
+        <option value="$PROJECT_DIR$/test_openCV/cardNumber/__init__.py" />
+        <option value="$PROJECT_DIR$/test_openCV/cardNumber/number_crop.py" />
+        <option value="$PROJECT_DIR$/test_openCV/cardNumber/test_YUV_canny.py" />
+        <option value="$PROJECT_DIR$/test_openCV/cardNumber/crop_v1_1.py" />
+        <option value="$PROJECT_DIR$/test_openCV/cardNumber/crop_v1.py" />
+        <option value="$PROJECT_DIR$/test_signal.py" />
+        <option value="$PROJECT_DIR$/test_openCV/cardNumber/test_tk.py" />
+        <option value="$PROJECT_DIR$/test_wxPython.py" />
+        <option value="$PROJECT_DIR$/test_tk.py" />
+        <option value="$PROJECT_DIR$/test_easygui.py" />
+        <option value="$PROJECT_DIR$/test_openCV/test_perspective_correction_houghLine.py" />
+        <option value="$PROJECT_DIR$/test_openCV/perspective_alignment_1.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/test_openCV/cardNumber/number_crop_y2.py" />
+        <option value="$PROJECT_DIR$/test_openCV/cardNumber/numbers_segmentation_1.py" />
+        <option value="$PROJECT_DIR$/numpy_exercises-master/Array_creation_routines.ipynb" />
+        <option value="$PROJECT_DIR$/service/multi-processors.py" />
+        <option value="$PROJECT_DIR$/opencv_tesseract/idcard.py" />
+        <option value="$PROJECT_DIR$/service/screen.sh" />
+        <option value="$PROJECT_DIR$/opencv_tesseract/dushu.py" />
+        <option value="$PROJECT_DIR$/service/test.py" />
+        <option value="$PROJECT_DIR$/test_openCV/Video/util.py" />
+        <option value="$PROJECT_DIR$/test_openCV/Video/perspective_alignment_1.py" />
+        <option value="$PROJECT_DIR$/test_openCV/Video/test.py" />
+        <option value="$PROJECT_DIR$/distributed/spark/pyspark/test_splearn.py" />
+        <option value="$PROJECT_DIR$/test_openCV/cards/test_sift.py" />
+        <option value="$PROJECT_DIR$/test_openCV/test.py" />
       </list>
     </option>
   </component>
@@ -281,7 +351,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="852" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -305,21 +375,14 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>PyTypeCheckerInspection</id>
+            <id>PyUnresolvedReferencesInspection</id>
           </State>
         </selected-state>
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -336,7 +399,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -344,12 +407,6 @@
               <option name="myItemId" value="Test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -365,42 +422,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="distributed" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="distributed" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spark" />
+              <option name="myItemId" value="test_openCV" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$USER_HOME$/anaconda/share/spark-2.0.0_preview/python/pyspark" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cardRecognizer" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="SearchEverywhereHistoryKey" value="switch jdk&#9;ACTION&#9;SwitchBootJdk" />
+    <property name="SearchEverywhereHistoryKey" value="FEATURE_EVALUATOR_HAAR&#9;null&#9;null&#10;switch jdk&#9;ACTION&#9;SwitchBootJdk" />
+    <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -412,50 +450,33 @@
       </console-settings>
     </option>
   </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportGeventDebugging" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/test_openCV" />
-      <recent name="$PROJECT_DIR$/test_openCV/cardNumber/numbers_1" />
+      <recent name="$PROJECT_DIR$/test_openCV/Video" />
+      <recent name="$PROJECT_DIR$/service" />
+      <recent name="$PROJECT_DIR$/opencv_tesseract" />
       <recent name="$PROJECT_DIR$/test_openCV/cardNumber" />
-      <recent name="$PROJECT_DIR$/test_openCV/cardNumber/numbers" />
-      <recent name="$PROJECT_DIR$/projects from github/perspective-correction-master 2/dataset" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/test_openCV/cardNumber" />
       <recent name="$PROJECT_DIR$/test_openCV/cardNumber/cards" />
       <recent name="$PROJECT_DIR$/test_openCV/cardNumber/numbers" />
       <recent name="$PROJECT_DIR$/test_openCV" />
-      <recent name="$PROJECT_DIR$/projects from github/perspective-correction-master 2" />
-      <recent name="$PROJECT_DIR$/test_openCV/QR" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_class">
-    <configuration default="false" name="test_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test (2)">
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
         <env name="PYTHONPATH" value="/Users/hzqb_luke/anaconda/share/spark-2.0.0_preview/python" />
         <env name="SPARK_HOME" value="/Users/hzqb_luke/anaconda/share/spark-2.0.0_preview" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/distributed/spark" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Test" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/distributed/spark/test_class.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="testGetAndPost" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="PYTHONPATH" value="/Users/hzqb_luke/Documents/auxiliary/spark-2.0.1-bin-hadoop2.7/python" />
-        <env name="SPARK_HOME" value="/Users/hzqb_luke/Documents/auxiliary/spark-2.0.1-bin-hadoop2.7" />
       </envs>
       <option name="SDK_HOME" value="$USER_HOME$/anaconda/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/service" />
@@ -464,47 +485,87 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Test" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/service/testGetAndPost.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/service/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="test_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="PYTHONPATH" value="/Users/hzqb_luke/Documents/auxiliary/spark-2.0.1-bin-hadoop2.7/python" />
-        <env name="SPARK_HOME" value="/Users/hzqb_luke/Documents/auxiliary/spark-2.0.1-bin-hadoop2.7" />
+        <env name="PYTHONPATH" value="/Users/hzqb_luke/anaconda/share/spark-2.0.0_preview/python" />
+        <env name="SPARK_HOME" value="/Users/hzqb_luke/anaconda/share/spark-2.0.0_preview" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/service" />
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_openCV/Video" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Test" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/service/test_server.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_openCV/Video/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="upload_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="test_splearn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="PYTHONPATH" value="/Users/hzqb_luke/Documents/auxiliary/spark-2.0.1-bin-hadoop2.7/python" />
-        <env name="SPARK_HOME" value="/Users/hzqb_luke/Documents/auxiliary/spark-2.0.1-bin-hadoop2.7" />
+        <env name="PYTHONPATH" value="/Users/hzqb_luke/anaconda/share/spark-2.0.0_preview/python" />
+        <env name="SPARK_HOME" value="/Users/hzqb_luke/anaconda/share/spark-2.0.0_preview" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/service/upload_files" />
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/distributed/spark/pyspark" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Test" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/service/upload_files/upload_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/distributed/spark/pyspark/test_splearn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_sift" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYTHONPATH" value="/Users/hzqb_luke/anaconda/share/spark-2.0.0_preview/python" />
+        <env name="SPARK_HOME" value="/Users/hzqb_luke/anaconda/share/spark-2.0.0_preview" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_openCV/cards" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_openCV/cards/test_sift.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYTHONPATH" value="/Users/hzqb_luke/anaconda/share/spark-2.0.0_preview/python" />
+        <env name="SPARK_HOME" value="/Users/hzqb_luke/anaconda/share/spark-2.0.0_preview" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_openCV" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_openCV/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -538,6 +599,12 @@
       <option name="CUSTOM_SETTINGS" value="false" />
       <option name="USE_OPTIONS" value="false" />
       <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -636,6 +703,42 @@
       <module name="Test" />
       <method />
     </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -646,7 +749,7 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
+      <command value="run" />
       <scripts />
       <node-interpreter value="project" />
       <envs />
@@ -782,19 +885,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <list size="5">
+    <configuration default="false" name="Unnamed" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
+      <module name="" />
+      <option name="PORT" value="13241" />
+      <option name="HOST" value="localhost" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="~/python remote debug" remote-root="~/python remote debug" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <option name="REDIRECT_OUTPUT" value="true" />
+      <option name="SUSPEND_AFTER_CONNECT" value="true" />
+      <method />
+    </configuration>
+    <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Python.test_spark1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test_class" />
-      <item index="2" class="java.lang.String" itemvalue="Python.testGetAndPost" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test_server" />
-      <item index="4" class="java.lang.String" itemvalue="Python.upload_file" />
+      <item index="1" class="java.lang.String" itemvalue="Python Remote Debug.Unnamed" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test_splearn" />
+      <item index="5" class="java.lang.String" itemvalue="Python.test_sift" />
+      <item index="6" class="java.lang.String" itemvalue="Python.test (2)" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.test_class" />
-        <item index="1" class="java.lang.String" itemvalue="Python.upload_file" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test_server" />
-        <item index="3" class="java.lang.String" itemvalue="Python.testGetAndPost" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.test (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test_sift" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test_splearn" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -812,32 +933,72 @@
       <option name="presentableId" value="Default" />
       <updated>1471744024961</updated>
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <created>1479741456209</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1479741456209</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add">
+      <created>1480317129320</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1480317129320</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add">
+      <created>1481016153061</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1481016153062</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add">
+      <created>1481122567031</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1481122567031</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add">
+      <created>1481199526509</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1481199526509</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="852" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24928367" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33452722" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24698795" sideWeight="0.512894" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.27349398" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="21" y="257" width="1398" height="385" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.40481928" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="21" y="257" width="1398" height="385" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40868455" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29759037" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="100" y="100" width="1240" height="700" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32409638" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38433734" sideWeight="0.48710603" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32771084" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3887468" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48192772" sideWeight="0.49212036" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -849,6 +1010,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -997,11 +1162,6 @@
           <option name="timeStamp" value="146" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test_openCV/cardNumber/test.py</url>
-          <line>114</line>
-          <option name="timeStamp" value="178" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/test_openCV/cardNumber/cluster_2.py</url>
           <line>65</line>
           <option name="timeStamp" value="185" />
@@ -1017,9 +1177,78 @@
           <option name="timeStamp" value="195" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test_openCV/test_perspective_correction.py</url>
+          <url>file://$PROJECT_DIR$/test_openCV/test_perspective_correction_contour.py</url>
           <line>60</line>
           <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_openCV/test_perspective_correction_houghLine.py</url>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_openCV/test_perspective_correction_houghLine.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_signal.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_openCV/perspective_alignment_1.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_openCV/cardNumber/number_crop_y2.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/opencv_tesseract/dushu.py</url>
+          <line>137</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/opencv_tesseract/dushu.py</url>
+          <line>156</line>
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_openCV/Video/test.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="287" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_openCV/Video/test.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="289" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_openCV/Video/test.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_openCV/Video/test.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/distributed/spark/pyspark/test_splearn.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_openCV/cards/test_sift.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_openCV/test.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="302" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -1032,957 +1261,366 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="197" />
+      <option name="time" value="303" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/cards/test3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/cards/test1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/numbers_1/0.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/cards/test_hist_HSV.py">
+    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/util.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="170">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/cluster_2.py">
+    <entry file="file://$PROJECT_DIR$/test_openCV/perspective_alignment_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="79" column="21" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <element signature="e#94#112#0" expanded="false" />
+            <element signature="e#93#125#0" expanded="false" />
+            <element signature="e#222#624#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="114" column="0" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
-          <folding>
-            <element signature="e#94#112#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/numbers_2/6_w.jpg" />
-    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/numbers_2/6_b.jpg" />
-    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/numbers_1/2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/cards/test.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/cards/test_orb_flann.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="26" column="58" selection-start-line="17" selection-start-column="0" selection-end-line="26" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/numbers_1/6.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/numbers_1/4.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/numbers_1/01.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/numbers_1/20.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/numbers_1/8.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/numbers_1/8_0.jpg" />
-    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/numbers_1/30.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/cards/test_surf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/cards/test_orb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-680">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda/lib/python2.7/socket.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1546">
-          <caret line="227" column="0" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/cards/test_hist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/6.png" />
     <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/cards/test2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/2.jpg">
+    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/cards/test6.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/3.jpg">
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed/python_Pool/pooling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/number_crop_y1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_easygui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_tk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/perspective_alignment_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_openCV/Test/2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/QR/QR_correction_lines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/contours.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/cards/test_sift.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding>
-            <element signature="e#91#109#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/test_YUV_canny.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/未命名文件夹/pyramidapp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/未命名文件夹/webserver2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/未命名文件夹/server_v1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-131">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/未命名文件夹/UDP.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service/testGetAndPost.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#29#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/test_perspective_correction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-          <folding>
-            <element signature="e#94#104#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="e#94#112#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/cluster_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="125" column="37" selection-start-line="125" selection-start-column="37" selection-end-line="125" selection-end-column="37" />
-          <folding>
-            <element signature="e#95#113#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_openCV/QR/QR_correction_contour.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="59" column="47" selection-start-line="59" selection-start-column="47" selection-end-line="59" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://Python/#/Users/hzqb_luke/anaconda/lib/python2.7/site-packages/tornado/platform">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>Python</ID>
-          <OriginalElement>#/Users/hzqb_luke/anaconda/lib/python2.7/site-packages/tornado/platform</OriginalElement>
-          <nodes>
-            <node x="" y="">tornado.platform.posix.Waker</node>
-            <node x="" y="">tornado.platform.epoll.EPollIOLoop</node>
-            <node x="" y="">tornado.platform.select._Select</node>
-            <node x="" y="">tornado.netutil.Resolver</node>
-            <node x="" y="">tornado.platform.twisted._TestReactor</node>
-            <node x="" y="">tornado.platform.interface.Waker</node>
-            <node x="" y="">tornado.platform.asyncio.AsyncIOLoop</node>
-            <node x="" y="">tornado.platform.twisted.TornadoReactor</node>
-            <node x="" y="">PosixReactorBase</node>
-            <node x="" y="">tornado.platform.kqueue.KQueueIOLoop</node>
-            <node x="" y="">tornado.platform.twisted.TornadoDelayedCall</node>
-            <node x="" y="">tornado.ioloop.IOLoop</node>
-            <node x="" y="">tornado.platform.twisted.TwistedIOLoop</node>
-            <node x="" y="">tornado.platform.caresresolver.CaresResolver</node>
-            <node x="" y="">tornado.ioloop.PollIOLoop</node>
-            <node x="" y="">object</node>
-            <node x="" y="">tornado.platform.kqueue._KQueue</node>
-            <node x="" y="">tornado.platform.select.SelectIOLoop</node>
-            <node x="" y="">tornado.platform.asyncio.AsyncIOMainLoop</node>
-            <node x="" y="">tornado.platform.twisted.TwistedResolver</node>
-            <node x="" y="">tornado.platform.twisted._FD</node>
-            <node x="" y="">tornado.util.Configurable</node>
-            <node x="" y="">tornado.platform.asyncio.BaseAsyncIOLoop</node>
-            <node x="" y="">_abcoll.Hashable</node>
-            <node x="" y="">tornado.platform.common.Waker</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0620332875758443" x="920.0" y="461.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda/lib/python2.7/site-packages/tornado/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda/lib/python2.7/site-packages/tornado/web.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="1442" column="0" selection-start-line="1442" selection-start-column="0" selection-end-line="1442" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#597#1781#1" expanded="false" />
-            <element signature="e#3013#3172#1" expanded="false" />
-            <element signature="e#3213#3372#1" expanded="false" />
-            <element signature="e#3407#3576#1" expanded="false" />
-            <element signature="e#3615#3785#1" expanded="false" />
-            <element signature="e#4724#4819#0" expanded="false" />
-            <element signature="e#4829#4897#0" expanded="false" />
-            <element signature="e#5501#6045#0" expanded="false" />
-            <element signature="e#5501#6032#1" expanded="false" />
-            <element signature="e#6093#6204#0" expanded="false" />
-            <element signature="e#6251#6271#0" expanded="false" />
-            <element signature="e#6317#6337#0" expanded="false" />
-            <element signature="e#6384#6404#0" expanded="false" />
-            <element signature="e#6453#6473#0" expanded="false" />
-            <element signature="e#6521#6541#0" expanded="false" />
-            <element signature="e#6587#6607#0" expanded="false" />
-            <element signature="e#6657#6677#0" expanded="false" />
-            <element signature="e#6710#7270#0" expanded="false" />
-            <element signature="e#6710#7257#1" expanded="false" />
-            <element signature="e#7305#7605#0" expanded="false" />
-            <element signature="e#7305#7592#1" expanded="false" />
-            <element signature="e#7650#8460#0" expanded="false" />
-            <element signature="e#7650#8238#1" expanded="false" />
-            <element signature="e#8304#8460#0" expanded="false" />
-            <element signature="e#8353#8460#0" expanded="false" />
-            <element signature="e#8491#8926#0" expanded="false" />
-            <element signature="e#8592#8779#0" expanded="false" />
-            <element signature="e#8971#9312#0" expanded="false" />
-            <element signature="e#8971#9299#1" expanded="false" />
-            <element signature="e#9374#10098#0" expanded="false" />
-            <element signature="e#9374#9779#1" expanded="false" />
-            <element signature="e#9930#10098#0" expanded="false" />
-            <element signature="e#10134#10214#0" expanded="false" />
-            <element signature="e#10263#10603#0" expanded="false" />
-            <element signature="e#10263#10539#1" expanded="false" />
-            <element signature="e#10652#10902#0" expanded="false" />
-            <element signature="e#10652#10835#1" expanded="false" />
-            <element signature="e#10946#11194#0" expanded="false" />
-            <element signature="e#10946#11124#1" expanded="false" />
-            <element signature="e#11307#12052#0" expanded="false" />
-            <element signature="e#11503#11600#0" expanded="false" />
-            <element signature="e#11793#11853#0" expanded="false" />
-            <element signature="e#12153#12587#0" expanded="false" />
-            <element signature="e#12153#12507#1" expanded="false" />
-            <element signature="e#12644#13109#0" expanded="false" />
-            <element signature="e#12644#12824#1" expanded="false" />
-            <element signature="e#12834#12900#0" expanded="false" />
-            <element signature="e#13192#13726#0" expanded="false" />
-            <element signature="e#13192#13607#1" expanded="false" />
-            <element signature="e#13788#14081#0" expanded="false" />
-            <element signature="e#13788#14004#1" expanded="false" />
-            <element signature="e#14165#14708#0" expanded="false" />
-            <element signature="e#14165#14588#1" expanded="false" />
-            <element signature="e#14771#15066#0" expanded="false" />
-            <element signature="e#14771#14988#1" expanded="false" />
-            <element signature="e#15140#15359#0" expanded="false" />
-            <element signature="e#15227#15335#0" expanded="false" />
-            <element signature="e#15425#15881#0" expanded="false" />
-            <element signature="e#15488#15859#0" expanded="false" />
-            <element signature="e#15587#15778#0" expanded="false" />
-            <element signature="e#15587#15645#0" expanded="false" />
-            <element signature="e#15940#16683#0" expanded="false" />
-            <element signature="e#15940#16480#1" expanded="false" />
-            <element signature="e#16576#16683#0" expanded="false" />
-            <element signature="e#16730#16854#0" expanded="false" />
-            <element signature="e#16910#17132#0" expanded="false" />
-            <element signature="e#17266#18789#0" expanded="false" />
-            <element signature="e#17266#17526#1" expanded="false" />
-            <element signature="e#17746#17860#0" expanded="false" />
-            <element signature="e#18236#18329#0" expanded="false" />
-            <element signature="e#18516#18789#0" expanded="false" />
-            <element signature="e#18578#18635#0" expanded="false" />
-            <element signature="e#18856#19360#0" expanded="false" />
-            <element signature="e#18856#19177#1" expanded="false" />
-            <element signature="e#19426#19784#0" expanded="false" />
-            <element signature="e#19426#19680#1" expanded="false" />
-            <element signature="e#19907#20911#0" expanded="false" />
-            <element signature="e#19907#20709#1" expanded="false" />
-            <element signature="e#20983#21955#0" expanded="false" />
-            <element signature="e#20983#21408#1" expanded="false" />
-            <element signature="e#21609#21821#0" expanded="false" />
-            <element signature="e#22077#22760#0" expanded="false" />
-            <element signature="e#22077#22414#1" expanded="false" />
-            <element signature="e#22833#23122#0" expanded="false" />
-            <element signature="e#22833#22942#1" expanded="false" />
-            <element signature="e#23191#23881#0" expanded="false" />
-            <element signature="e#23191#23511#1" expanded="false" />
-            <element signature="e#23919#25326#0" expanded="false" />
-            <element signature="e#23919#24633#1" expanded="false" />
-            <element signature="e#24800#25096#0" expanded="false" />
-            <element signature="e#25145#25257#0" expanded="false" />
-            <element signature="e#25383#28991#0" expanded="false" />
-            <element signature="e#25808#26801#0" expanded="false" />
-            <element signature="e#26019#26183#0" expanded="false" />
-            <element signature="e#26394#26560#0" expanded="false" />
-            <element signature="e#26846#26910#0" expanded="false" />
-            <element signature="e#26944#27583#0" expanded="false" />
-            <element signature="e#27104#27305#0" expanded="false" />
-            <element signature="e#27244#27305#0" expanded="false" />
-            <element signature="e#27331#27475#0" expanded="false" />
-            <element signature="e#27617#27837#0" expanded="false" />
-            <element signature="e#27872#28453#0" expanded="false" />
-            <element signature="e#27967#28168#0" expanded="false" />
-            <element signature="e#28107#28168#0" expanded="false" />
-            <element signature="e#28195#28345#0" expanded="false" />
-            <element signature="e#28237#28304#0" expanded="false" />
-            <element signature="e#28488#28681#0" expanded="false" />
-            <element signature="e#28717#28822#0" expanded="false" />
-            <element signature="e#28859#28965#0" expanded="false" />
-            <element signature="e#29055#30173#0" expanded="false" />
-            <element signature="e#29055#29255#1" expanded="false" />
-            <element signature="e#29424#29659#0" expanded="false" />
-            <element signature="e#29723#30012#0" expanded="false" />
-            <element signature="e#29797#29921#0" expanded="false" />
-            <element signature="e#30221#30989#0" expanded="false" />
-            <element signature="e#30221#30549#1" expanded="false" />
-            <element signature="e#31052#31962#0" expanded="false" />
-            <element signature="e#31052#31407#1" expanded="false" />
-            <element signature="e#31611#31793#0" expanded="false" />
-            <element signature="e#31611#31671#0" expanded="false" />
-            <element signature="e#32031#34251#0" expanded="false" />
-            <element signature="e#32031#32545#1" expanded="false" />
-            <element signature="e#32673#33793#0" expanded="false" />
-            <element signature="e#32765#32967#0" expanded="false" />
-            <element signature="e#33132#33195#0" expanded="false" />
-            <element signature="e#33355#33472#0" expanded="false" />
-            <element signature="e#33820#34251#0" expanded="false" />
-            <element signature="e#34164#34251#0" expanded="false" />
-            <element signature="e#34503#34569#0" expanded="false" />
-            <element signature="e#34667#35340#0" expanded="false" />
-            <element signature="e#34825#34977#0" expanded="false" />
-            <element signature="e#34913#34977#0" expanded="false" />
-            <element signature="e#35035#35139#0" expanded="false" />
-            <element signature="e#35212#35340#0" expanded="false" />
-            <element signature="e#35402#35702#0" expanded="false" />
-            <element signature="e#35402#35459#0" expanded="false" />
-            <element signature="e#35858#35915#0" expanded="false" />
-            <element signature="e#36066#37682#0" expanded="false" />
-            <element signature="e#36066#36544#1" expanded="false" />
-            <element signature="e#36591#37153#0" expanded="false" />
-            <element signature="e#36708#37134#0" expanded="false" />
-            <element signature="e#36708#36767#0" expanded="false" />
-            <element signature="e#37036#37134#0" expanded="false" />
-            <element signature="e#37259#37404#0" expanded="false" />
-            <element signature="e#37742#38826#0" expanded="false" />
-            <element signature="e#37742#38225#1" expanded="false" />
-            <element signature="e#38312#38542#0" expanded="false" />
-            <element signature="e#38569#38826#0" expanded="false" />
-            <element signature="e#38581#38693#0" expanded="false" />
-            <element signature="e#38696#38825#0" expanded="false" />
-            <element signature="e#38872#39473#0" expanded="false" />
-            <element signature="e#38872#39228#1" expanded="false" />
-            <element signature="e#39282#39445#0" expanded="false" />
-            <element signature="e#39369#39445#0" expanded="false" />
-            <element signature="e#39531#39551#0" expanded="false" />
-            <element signature="e#39592#39901#0" expanded="false" />
-            <element signature="e#39592#39881#1" expanded="false" />
-            <element signature="e#39962#40911#0" expanded="false" />
-            <element signature="e#39962#40114#1" expanded="false" />
-            <element signature="e#40181#40876#0" expanded="false" />
-            <element signature="e#40324#40693#0" expanded="false" />
-            <element signature="e#40445#40589#0" expanded="false" />
-            <element signature="e#40734#40876#0" expanded="false" />
-            <element signature="e#40963#42293#0" expanded="false" />
-            <element signature="e#40963#42155#1" expanded="false" />
-            <element signature="e#42363#42389#0" expanded="false" />
-            <element signature="e#42431#42571#0" expanded="false" />
-            <element signature="e#42431#42551#1" expanded="false" />
-            <element signature="e#42610#42875#0" expanded="false" />
-            <element signature="e#42610#42749#1" expanded="false" />
-            <element signature="e#42918#43187#0" expanded="false" />
-            <element signature="e#42918#43125#1" expanded="false" />
-            <element signature="e#43237#45595#0" expanded="false" />
-            <element signature="e#43237#44505#1" expanded="false" />
-            <element signature="e#44563#45563#0" expanded="false" />
-            <element signature="e#44912#45165#0" expanded="false" />
-            <element signature="e#44978#45164#0" expanded="false" />
-            <element signature="e#45200#45299#0" expanded="false" />
-            <element signature="e#45348#45563#0" expanded="false" />
-            <element signature="e#45640#46580#0" expanded="false" />
-            <element signature="e#45640#46068#1" expanded="false" />
-            <element signature="e#46130#46544#0" expanded="false" />
-            <element signature="e#46388#46481#0" expanded="false" />
-            <element signature="e#46632#48042#0" expanded="false" />
-            <element signature="e#46632#46733#1" expanded="false" />
-            <element signature="e#46760#47799#0" expanded="false" />
-            <element signature="e#46844#47414#0" expanded="false" />
-            <element signature="e#46923#47245#0" expanded="false" />
-            <element signature="e#47288#47414#0" expanded="false" />
-            <element signature="e#47449#47799#0" expanded="false" />
-            <element signature="e#47838#48042#0" expanded="false" />
-            <element signature="e#48085#49771#0" expanded="false" />
-            <element signature="e#48085#49243#1" expanded="false" />
-            <element signature="e#49811#50435#0" expanded="false" />
-            <element signature="e#49811#50315#1" expanded="false" />
-            <element signature="e#50506#51954#0" expanded="false" />
-            <element signature="e#50506#51474#1" expanded="false" />
-            <element signature="e#52025#52286#0" expanded="false" />
-            <element signature="e#52156#52286#0" expanded="false" />
-            <element signature="e#52172#52267#0" expanded="false" />
-            <element signature="e#52336#52435#0" expanded="false" />
-            <element signature="e#52473#52888#0" expanded="false" />
-            <element signature="e#52473#52741#1" expanded="false" />
-            <element signature="e#52929#53264#0" expanded="false" />
-            <element signature="e#52929#53158#1" expanded="false" />
-            <element signature="e#53307#54784#0" expanded="false" />
-            <element signature="e#53307#53989#1" expanded="false" />
-            <element signature="e#54058#54122#0" expanded="false" />
-            <element signature="e#54506#54763#0" expanded="false" />
-            <element signature="e#54669#54763#0" expanded="false" />
-            <element signature="e#54725#54763#0" expanded="false" />
-            <element signature="e#54865#55246#0" expanded="false" />
-            <element signature="e#54882#55150#0" expanded="false" />
-            <element signature="e#54882#54943#0" expanded="false" />
-            <element signature="e#55653#55754#0" expanded="false" />
-            <element signature="e#55768#55832#0" expanded="false" />
-            <element signature="e#56224#56387#0" expanded="false" />
-            <element signature="e#56224#56276#0" expanded="false" />
-            <element signature="e#56516#56892#0" expanded="false" />
-            <element signature="e#56516#56573#0" expanded="false" />
-            <element signature="e#57226#57780#0" expanded="false" />
-            <element signature="e#57515#57780#0" expanded="false" />
-            <element signature="e#57515#57573#0" expanded="false" />
-            <element signature="e#57826#57987#0" expanded="false" />
-            <element signature="e#57826#57951#1" expanded="false" />
-            <element signature="e#58017#58284#0" expanded="false" />
-            <element signature="e#58017#58241#1" expanded="false" />
-            <element signature="e#58326#58442#0" expanded="false" />
-            <element signature="e#58349#58441#0" expanded="false" />
-            <element signature="e#58496#59582#0" expanded="false" />
-            <element signature="e#58534#58681#0" expanded="false" />
-            <element signature="e#58781#58957#0" expanded="false" />
-            <element signature="e#58781#58840#0" expanded="false" />
-            <element signature="e#58997#59175#0" expanded="false" />
-            <element signature="e#58997#59054#0" expanded="false" />
-            <element signature="e#59225#59510#0" expanded="false" />
-            <element signature="e#59302#59420#0" expanded="false" />
-            <element signature="e#59637#60425#0" expanded="false" />
-            <element signature="e#59637#59974#1" expanded="false" />
-            <element signature="e#60028#60264#0" expanded="false" />
-            <element signature="e#60066#60264#0" expanded="false" />
-            <element signature="e#60291#60425#0" expanded="false" />
-            <element signature="e#60475#60829#0" expanded="false" />
-            <element signature="e#60516#60807#0" expanded="false" />
-            <element signature="e#60873#60933#0" expanded="false" />
-            <element signature="e#60981#61473#0" expanded="false" />
-            <element signature="e#60981#61042#0" expanded="false" />
-            <element signature="e#61244#61414#0" expanded="false" />
-            <element signature="e#61506#64712#0" expanded="false" />
-            <element signature="e#61506#63287#1" expanded="false" />
-            <element signature="e#63476#64693#0" expanded="false" />
-            <element signature="e#63619#64693#0" expanded="false" />
-            <element signature="e#63709#64667#0" expanded="false" />
-            <element signature="e#63762#63814#0" expanded="false" />
-            <element signature="e#64181#64272#0" expanded="false" />
-            <element signature="e#64358#64408#0" expanded="false" />
-            <element signature="e#64749#66059#0" expanded="false" />
-            <element signature="e#64749#65888#1" expanded="false" />
-            <element signature="e#66101#66271#0" expanded="false" />
-            <element signature="e#66303#67179#0" expanded="false" />
-            <element signature="e#66303#66600#1" expanded="false" />
-            <element signature="e#66678#67160#0" expanded="false" />
-            <element signature="e#66726#67115#0" expanded="false" />
-            <element signature="e#66785#67060#0" expanded="false" />
-            <element signature="e#66900#67060#0" expanded="false" />
-            <element signature="e#67208#67988#0" expanded="false" />
-            <element signature="e#67208#67508#1" expanded="false" />
-            <element signature="e#67586#67969#0" expanded="false" />
-            <element signature="e#67638#67924#0" expanded="false" />
-            <element signature="e#67697#67891#0" expanded="false" />
-            <element signature="e#68053#78413#0" expanded="false" />
-            <element signature="e#68053#70199#1" expanded="false" />
-            <element signature="e#70310#72346#0" expanded="false" />
-            <element signature="e#70345#70499#0" expanded="false" />
-            <element signature="e#70715#70882#0" expanded="false" />
-            <element signature="e#71093#71816#0" expanded="false" />
-            <element signature="e#71583#71690#0" expanded="false" />
-            <element signature="e#71708#71816#0" expanded="false" />
-            <element signature="e#71728#71814#0" expanded="false" />
-            <element signature="e#71937#72179#0" expanded="false" />
-            <element signature="e#72285#72346#0" expanded="false" />
-            <element signature="e#72406#73429#0" expanded="false" />
-            <element signature="e#72406#73169#1" expanded="false" />
-            <element signature="e#73178#73235#0" expanded="false" />
-            <element signature="e#73496#74836#0" expanded="false" />
-            <element signature="e#73496#73688#1" expanded="false" />
-            <element signature="e#73794#73853#0" expanded="false" />
-            <element signature="e#74398#74836#0" expanded="false" />
-            <element signature="e#74450#74517#0" expanded="false" />
-            <element signature="e#74594#74836#0" expanded="false" />
-            <element signature="e#74651#74782#0" expanded="false" />
-            <element signature="e#74892#74931#0" expanded="false" />
-            <element signature="e#74984#75501#0" expanded="false" />
-            <element signature="e#75117#75190#0" expanded="false" />
-            <element signature="e#75333#75470#0" expanded="false" />
-            <element signature="e#75389#75470#0" expanded="false" />
-            <element signature="e#75552#76067#0" expanded="false" />
-            <element signature="e#75606#75720#0" expanded="false" />
-            <element signature="e#75633#75718#0" expanded="false" />
-            <element signature="e#75773#75831#0" expanded="false" />
-            <element signature="e#75858#76067#0" expanded="false" />
-            <element signature="e#75907#76067#0" expanded="false" />
-            <element signature="e#76118#76684#0" expanded="false" />
-            <element signature="e#76172#76286#0" expanded="false" />
-            <element signature="e#76199#76284#0" expanded="false" />
-            <element signature="e#76339#76397#0" expanded="false" />
-            <element signature="e#76424#76684#0" expanded="false" />
-            <element signature="e#76519#76684#0" expanded="false" />
-            <element signature="e#76544#76625#0" expanded="false" />
-            <element signature="e#76750#76833#0" expanded="false" />
-            <element signature="e#76876#77033#0" expanded="false" />
-            <element signature="e#77083#77556#0" expanded="false" />
-            <element signature="e#77083#77396#1" expanded="false" />
-            <element signature="e#77602#78413#0" expanded="false" />
-            <element signature="e#77602#77897#1" expanded="false" />
-            <element signature="e#77954#78011#0" expanded="false" />
-            <element signature="e#78476#83278#0" expanded="false" />
-            <element signature="e#78529#78776#0" expanded="false" />
-            <element signature="e#78839#79088#0" expanded="false" />
-            <element signature="e#79026#79088#0" expanded="false" />
-            <element signature="e#79134#79265#0" expanded="false" />
-            <element signature="e#79304#81001#0" expanded="false" />
-            <element signature="e#79304#79365#0" expanded="false" />
-            <element signature="e#79535#79770#0" expanded="false" />
-            <element signature="e#79668#79749#0" expanded="false" />
-            <element signature="e#79813#80664#0" expanded="false" />
-            <element signature="e#79895#80664#0" expanded="false" />
-            <element signature="e#80043#80641#0" expanded="false" />
-            <element signature="e#80043#80087#0" expanded="false" />
-            <element signature="e#80335#80486#0" expanded="false" />
-            <element signature="e#80388#80485#0" expanded="false" />
-            <element signature="e#80537#80641#0" expanded="false" />
-            <element signature="e#80554#80641#0" expanded="false" />
-            <element signature="e#80731#80885#0" expanded="false" />
-            <element signature="e#80912#81001#0" expanded="false" />
-            <element signature="e#81046#81177#0" expanded="false" />
-            <element signature="e#81209#81418#0" expanded="false" />
-            <element signature="e#81311#81418#0" expanded="false" />
-            <element signature="e#81463#81583#0" expanded="false" />
-            <element signature="e#81616#83278#0" expanded="false" />
-            <element signature="e#81616#81676#0" expanded="false" />
-            <element signature="e#81894#82044#0" expanded="false" />
-            <element signature="e#81953#82044#0" expanded="false" />
-            <element signature="e#82471#82534#0" expanded="false" />
-            <element signature="e#83025#83091#0" expanded="false" />
-            <element signature="e#83313#84985#0" expanded="false" />
-            <element signature="e#83313#84345#1" expanded="false" />
-            <element signature="e#84430#84672#0" expanded="false" />
-            <element signature="e#84705#84985#0" expanded="false" />
-            <element signature="e#84745#84841#0" expanded="false" />
-            <element signature="e#85017#85982#0" expanded="false" />
-            <element signature="e#85017#85973#1" expanded="false" />
-            <element signature="e#86028#86439#0" expanded="false" />
-            <element signature="e#86028#86269#1" expanded="false" />
-            <element signature="e#86312#86439#0" expanded="false" />
-            <element signature="e#86482#86943#0" expanded="false" />
-            <element signature="e#86602#86630#0" expanded="false" />
-            <element signature="e#86663#86697#0" expanded="false" />
-            <element signature="e#86740#86943#0" expanded="false" />
-            <element signature="e#86740#86800#0" expanded="false" />
-            <element signature="e#86989#87443#0" expanded="false" />
-            <element signature="e#86989#87256#1" expanded="false" />
-            <element signature="e#87312#87363#0" expanded="false" />
-            <element signature="e#87392#87443#0" expanded="false" />
-            <element signature="e#87491#106832#0" expanded="false" />
-            <element signature="e#87491#90646#1" expanded="false" />
-            <element signature="e#90841#90906#0" expanded="false" />
-            <element signature="e#90953#91004#0" expanded="false" />
-            <element signature="e#91040#91081#0" expanded="false" />
-            <element signature="e#91154#94293#0" expanded="false" />
-            <element signature="e#91668#91707#0" expanded="false" />
-            <element signature="e#91832#92042#0" expanded="false" />
-            <element signature="e#91832#91897#0" expanded="false" />
-            <element signature="e#92121#93464#0" expanded="false" />
-            <element signature="e#92230#92659#0" expanded="false" />
-            <element signature="e#92230#92292#0" expanded="false" />
-            <element signature="e#92801#92963#0" expanded="false" />
-            <element signature="e#92801#92861#0" expanded="false" />
-            <element signature="e#92976#93043#0" expanded="false" />
-            <element signature="e#93297#93464#0" expanded="false" />
-            <element signature="e#93883#94230#0" expanded="false" />
-            <element signature="e#94071#94230#0" expanded="false" />
-            <element signature="e#94096#94152#0" expanded="false" />
-            <element signature="e#94331#94786#0" expanded="false" />
-            <element signature="e#94331#94624#1" expanded="false" />
-            <element signature="e#94823#95637#0" expanded="false" />
-            <element signature="e#94823#94922#1" expanded="false" />
-            <element signature="e#95396#95594#0" expanded="false" />
-            <element signature="e#95680#96322#0" expanded="false" />
-            <element signature="e#95680#95789#1" expanded="false" />
-            <element signature="e#95860#95923#0" expanded="false" />
-            <element signature="e#96076#96300#0" expanded="false" />
-            <element signature="e#96177#96300#0" expanded="false" />
-            <element signature="e#96393#96964#0" expanded="false" />
-            <element signature="e#96393#96881#1" expanded="false" />
-            <element signature="e#97033#99455#0" expanded="false" />
-            <element signature="e#97033#97791#1" expanded="false" />
-            <element signature="e#97800#97838#0" expanded="false" />
-            <element signature="e#98091#98430#0" expanded="false" />
-            <element signature="e#98091#98145#0" expanded="false" />
-            <element signature="e#98439#98499#0" expanded="false" />
-            <element signature="e#98638#98735#0" expanded="false" />
-            <element signature="e#98845#99237#0" expanded="false" />
-            <element signature="e#98845#98907#0" expanded="false" />
-            <element signature="e#99081#99158#0" expanded="false" />
-            <element signature="e#99539#100900#0" expanded="false" />
-            <element signature="e#99539#100147#1" expanded="false" />
-            <element signature="e#100202#100900#0" expanded="false" />
-            <element signature="e#100427#100900#0" expanded="false" />
-            <element signature="e#100654#100759#0" expanded="false" />
-            <element signature="e#100802#100900#0" expanded="false" />
-            <element signature="e#100970#101461#0" expanded="false" />
-            <element signature="e#100970#101206#1" expanded="false" />
-            <element signature="e#101372#101427#0" expanded="false" />
-            <element signature="e#101492#101622#0" expanded="false" />
-            <element signature="e#101664#102039#0" expanded="false" />
-            <element signature="e#101664#101963#1" expanded="false" />
-            <element signature="e#102082#102449#0" expanded="false" />
-            <element signature="e#102082#102295#1" expanded="false" />
-            <element signature="e#102491#103292#0" expanded="false" />
-            <element signature="e#102491#102601#1" expanded="false" />
-            <element signature="e#102826#102882#0" expanded="false" />
-            <element signature="e#103341#103409#0" expanded="false" />
-            <element signature="e#103476#103940#0" expanded="false" />
-            <element signature="e#103476#103866#1" expanded="false" />
-            <element signature="e#104035#105108#0" expanded="false" />
-            <element signature="e#104035#104830#1" expanded="false" />
-            <element signature="e#105158#105567#0" expanded="false" />
-            <element signature="e#105158#105454#1" expanded="false" />
-            <element signature="e#105636#106312#0" expanded="false" />
-            <element signature="e#105636#106191#1" expanded="false" />
-            <element signature="e#106383#106832#0" expanded="false" />
-            <element signature="e#106411#106812#0" expanded="false" />
-            <element signature="e#106494#106726#0" expanded="false" />
-            <element signature="e#106626#106726#0" expanded="false" />
-            <element signature="e#106878#107632#0" expanded="false" />
-            <element signature="e#106878#107473#1" expanded="false" />
-            <element signature="e#107518#107542#0" expanded="false" />
-            <element signature="e#107575#107632#0" expanded="false" />
-            <element signature="e#107670#108161#0" expanded="false" />
-            <element signature="e#107670#107923#1" expanded="false" />
-            <element signature="e#107965#107969#0" expanded="false" />
-            <element signature="e#108056#108090#0" expanded="false" />
-            <element signature="e#108149#108161#0" expanded="false" />
-            <element signature="e#108212#111320#0" expanded="false" />
-            <element signature="e#108212#108547#1" expanded="false" />
-            <element signature="e#108552#108616#0" expanded="false" />
-            <element signature="e#108672#108864#0" expanded="false" />
-            <element signature="e#108870#108932#0" expanded="false" />
-            <element signature="e#109058#109126#0" expanded="false" />
-            <element signature="e#109396#109465#0" expanded="false" />
-            <element signature="e#109516#109579#0" expanded="false" />
-            <element signature="e#109666#110931#0" expanded="false" />
-            <element signature="e#109842#110094#0" expanded="false" />
-            <element signature="e#110134#110888#0" expanded="false" />
-            <element signature="e#110486#110888#0" expanded="false" />
-            <element signature="e#110486#110537#0" expanded="false" />
-            <element signature="e#110990#111320#0" expanded="false" />
-            <element signature="e#111021#111299#0" expanded="false" />
-            <element signature="e#111354#112516#0" expanded="false" />
-            <element signature="e#111354#111795#1" expanded="false" />
-            <element signature="e#111873#112497#0" expanded="false" />
-            <element signature="e#111911#112452#0" expanded="false" />
-            <element signature="e#111970#112419#0" expanded="false" />
-            <element signature="e#112052#112361#0" expanded="false" />
-            <element signature="e#112110#112219#0" expanded="false" />
-            <element signature="e#112547#114589#0" expanded="false" />
-            <element signature="e#112547#112859#1" expanded="false" />
-            <element signature="e#112901#113028#0" expanded="false" />
-            <element signature="e#113080#113112#0" expanded="false" />
-            <element signature="e#113161#113257#0" expanded="false" />
-            <element signature="e#113302#113402#0" expanded="false" />
-            <element signature="e#113444#113692#0" expanded="false" />
-            <element signature="e#113444#113672#1" expanded="false" />
-            <element signature="e#113730#113830#0" expanded="false" />
-            <element signature="e#113865#114109#0" expanded="false" />
-            <element signature="e#113865#114089#1" expanded="false" />
-            <element signature="e#114144#114261#0" expanded="false" />
-            <element signature="e#114144#114241#1" expanded="false" />
-            <element signature="e#114296#114424#0" expanded="false" />
-            <element signature="e#114296#114404#1" expanded="false" />
-            <element signature="e#114479#114589#0" expanded="false" />
-            <element signature="e#114622#114701#0" expanded="false" />
-            <element signature="e#114664#114701#0" expanded="false" />
-            <element signature="e#114741#114803#0" expanded="false" />
-            <element signature="e#114767#114803#0" expanded="false" />
-            <element signature="e#114842#117382#0" expanded="false" />
-            <element signature="e#114842#115588#1" expanded="false" />
-            <element signature="e#115630#115810#0" expanded="false" />
-            <element signature="e#115858#116393#0" expanded="false" />
-            <element signature="e#115899#116280#0" expanded="false" />
-            <element signature="e#115951#116036#0" expanded="false" />
-            <element signature="e#116071#116258#0" expanded="false" />
-            <element signature="e#116131#116258#0" expanded="false" />
-            <element signature="e#116148#116257#0" expanded="false" />
-            <element signature="e#116438#116494#0" expanded="false" />
-            <element signature="e#116539#116599#0" expanded="false" />
-            <element signature="e#116641#116869#0" expanded="false" />
-            <element signature="e#116723#116847#0" expanded="false" />
-            <element signature="e#116907#116960#0" expanded="false" />
-            <element signature="e#116995#117216#0" expanded="false" />
-            <element signature="e#117070#117194#0" expanded="false" />
-            <element signature="e#117251#117299#0" expanded="false" />
-            <element signature="e#117334#117382#0" expanded="false" />
-            <element signature="e#117423#117852#0" expanded="false" />
-            <element signature="e#117548#117607#0" expanded="false" />
-            <element signature="e#117649#117706#0" expanded="false" />
-            <element signature="e#117748#117852#0" expanded="false" />
-            <element signature="e#117882#120872#0" expanded="false" />
-            <element signature="e#118008#119161#0" expanded="false" />
-            <element signature="e#118008#118499#1" expanded="false" />
-            <element signature="e#118690#118776#0" expanded="false" />
-            <element signature="e#118849#119003#0" expanded="false" />
-            <element signature="e#118849#118894#0" expanded="false" />
-            <element signature="e#119195#119353#0" expanded="false" />
-            <element signature="e#119252#119352#0" expanded="false" />
-            <element signature="e#119391#120320#0" expanded="false" />
-            <element signature="e#119391#119579#1" expanded="false" />
-            <element signature="e#119821#119962#0" expanded="false" />
-            <element signature="e#119821#119882#0" expanded="false" />
-            <element signature="e#120040#120267#0" expanded="false" />
-            <element signature="e#120076#120209#0" expanded="false" />
-            <element signature="e#120360#120872#0" expanded="false" />
-            <element signature="e#120501#120557#0" expanded="false" />
-            <element signature="e#120677#120822#0" expanded="false" />
-            <element signature="e#121001#121363#0" expanded="false" />
-            <element signature="e#121045#121363#0" expanded="false" />
-            <element signature="e#121180#121234#0" expanded="false" />
-            <element signature="e#121272#121336#0" expanded="false" />
-            <element signature="e#121484#123304#0" expanded="false" />
-            <element signature="e#121711#121853#0" expanded="false" />
-            <element signature="e#121885#123231#0" expanded="false" />
-            <element signature="e#121885#121945#0" expanded="false" />
-            <element signature="e#122621#122658#0" expanded="false" />
-            <element signature="e#122687#122874#0" expanded="false" />
-            <element signature="e#122926#123137#0" expanded="false" />
-            <element signature="e#123304#123341#0" expanded="false" />
-            <element signature="e#123483#124310#0" expanded="false" />
-            <element signature="e#123483#123549#0" expanded="false" />
-            <element signature="e#123752#124291#0" expanded="false" />
-            <element signature="e#123769#124240#0" expanded="false" />
-            <element signature="e#123841#124240#0" expanded="false" />
-            <element signature="e#123841#123895#0" expanded="false" />
-            <element signature="e#124434#125115#0" expanded="false" />
-            <element signature="e#124831#124942#0" expanded="false" />
-            <element signature="e#124974#125085#0" expanded="false" />
-            <element signature="e#125193#126338#0" expanded="false" />
-            <element signature="e#125406#125479#0" expanded="false" />
-            <element signature="e#125569#125632#0" expanded="false" />
-            <element signature="e#125682#126138#0" expanded="false" />
-            <element signature="e#125682#125739#0" expanded="false" />
-            <element signature="e#126181#126245#0" expanded="false" />
-            <element signature="e#126375#127090#0" expanded="false" />
-            <element signature="e#126406#126784#0" expanded="false" />
-            <element signature="e#126505#126566#0" expanded="false" />
-            <element signature="e#127168#127927#0" expanded="false" />
-            <element signature="e#127398#127492#0" expanded="false" />
-            <element signature="e#127783#127831#0" expanded="false" />
-            <element signature="e#127972#128200#0" expanded="false" />
-            <element signature="e#128249#128391#0" expanded="false" />
-            <element signature="e#128435#128549#0" expanded="false" />
-            <element signature="e#128581#128869#0" expanded="false" />
-            <element signature="e#128581#128773#1" expanded="false" />
-          </folding>
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service/GetBrand.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/test_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-          <folding>
-            <element signature="e#94#115#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/upload_files/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/upload_files/upload_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="28" selection-end-column="44" />
-          <folding>
-            <element signature="e#94#115#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/distributed/spark/test_submit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/distributed/spark/test_spark_with_tensorflow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+    <entry file="file://$PROJECT_DIR$/numpy_exercises-master/Array_creation_routines.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service/server_v3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        <state relative-caret-position="-33">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python2.7/site-packages/tornado/tcpserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="254" column="64" lean-forward="true" selection-start-line="254" selection-start-column="64" selection-end-line="254" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv_tesseract/172_79.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python2.7/site-packages/matplotlib/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="1216" column="11" lean-forward="true" selection-start-line="1216" selection-start-column="11" selection-end-line="1216" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python2.7/site-packages/skimage/morphology/selem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="89" column="4" lean-forward="false" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python2.7/subprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="710" column="0" lean-forward="false" selection-start-line="710" selection-start-column="0" selection-end-line="710" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python2.7/site-packages/pytesseract/pytesseract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="127" column="4" lean-forward="false" selection-start-line="127" selection-start-column="4" selection-end-line="127" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python2.7/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="2151" column="22" lean-forward="false" selection-start-line="2151" selection-start-column="22" selection-end-line="2151" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/screen.sh" />
+    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/cards/test1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/upload_files/upload_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv_tesseract/dushu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="39" column="4" lean-forward="false" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+          <folding>
+            <element signature="e#90#100#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/multi-processors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv_tesseract/idcard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/1662641538/cv2/cv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="1101" column="4" lean-forward="false" selection-start-line="1101" selection-start-column="4" selection-end-line="1101" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python2.7/site-packages/numpy/lib/type_check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="74" column="4" lean-forward="false" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/numbers_segmentation_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="318" column="0" lean-forward="false" selection-start-line="318" selection-start-column="0" selection-end-line="318" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_openCV/cardNumber/number_crop_y2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="39" column="25" lean-forward="false" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_openCV/Video/numbers_segmentation_1.py" />
+    <entry file="file://$PROJECT_DIR$/test_openCV/test_perspective_correction_contour.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="33" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python2.7/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="555" column="0" lean-forward="false" selection-start-line="555" selection-start-column="0" selection-end-line="555" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/1662641538/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="2282" column="4" lean-forward="false" selection-start-line="2282" selection-start-column="4" selection-end-line="2282" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/test_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="15" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_openCV/Video/perspective_alignment_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_openCV/Video/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="50" lean-forward="false" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+          <folding>
+            <element signature="e#94#125#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/distributed/spark/test_spark1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        <state relative-caret-position="391">
+          <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed/spark/import.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed/spark/pyspark/test_splearn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_openCV/cards/test_sift_flann.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_openCV/Video/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
           <folding>
-            <element signature="e#92#124#0" expanded="true" />
+            <element signature="e#93#107#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/distributed/spark/test_class.py">
+    <entry file="file://$PROJECT_DIR$/test_openCV/cards/test_sift.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="11" selection-end-column="28" />
-          <folding>
-            <element signature="e#93#104#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="272">
+          <caret line="22" column="11" lean-forward="false" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python2.7/site-packages/PyPDF2/pdf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2431">
+          <caret line="148" column="39" lean-forward="false" selection-start-line="148" selection-start-column="38" selection-end-line="148" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/test.py.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_openCV/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_logging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="35" column="47" lean-forward="false" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
