@@ -3,14 +3,14 @@
 # @Author  : Luke
 # @Software: PyCharm
 
-def func():
-    pass
+import cv2
 
 
-class Main():
-    def __init__(self):
-        pass
+img = cv2.imread("landscape.jpg",0)
 
+template = cv2.imread("unionpay.jpg",0)
+w, h = template.shape[::-1]
+res = cv2.matchTemplate(img,template,cv2.TM_CCOEFF_NORMED)
 
-if __name__ == '__main__':
-    pass
+cv2.imshow("match result",res)
+cv2.waitKey(0)

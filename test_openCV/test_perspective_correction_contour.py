@@ -61,3 +61,7 @@ print int(min(pts1[:,0])-th*rows),int(max(pts1[:,0])+th*rows),rows
 plt.subplot(121),plt.imshow(img,'gray')
 plt.subplot(122),plt.imshow(new_img,'gray')
 plt.show()
+
+
+cv2.imwrite("ori.jpg",img)
+cv2.imwrite("new.jpg",new_img)

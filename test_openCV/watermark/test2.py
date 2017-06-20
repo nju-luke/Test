@@ -16,7 +16,7 @@ watermark_1 = cv2.resize(cv2.imread(union,0), shape)
 watermark_1 = (watermark_1 > 128) * 1
 
 np.random.seed(128)
-watermark_1 = ((watermark_1 + (np.random.randint(0,9,(col,row))<3))>0) * 2 - 1
+watermark_1 = ((watermark_1 + (np.random.randint(0,10,(col,row))<5))>0) * 2 - 1
 
 # plt.imshow(watermark_1,'gray')
 # plt.show()
@@ -55,8 +55,8 @@ for x2 in range(col):
 
 x_center = col / 2
 y_center = row / 2
-R_outer = min(row, col) / 2 * 0.75
-R_inner = min(row, col) / 2 * 0.25
+R_outer = min(row, col) / 2 * 0.8
+R_inner = min(row, col) / 2 * 0.2
 concentric_annulus = np.zeros_like(watermark_1)
 for x2 in range(col):
     for y2 in range(row):
@@ -145,8 +145,10 @@ print np.pi*(R_outer**2-R_inner**2)
 
 plt.subplot(211)
 plt.plot(x,result1)
-plt.subplot(212)
+plt.subplot(223)
 plt.plot(x,result2)
+plt.subplot(224)
+plt.plot(x,np.log(result2))
 plt.show()
 
 

@@ -13,10 +13,10 @@ sys.setdefaultencoding('utf8')
 '''
 在jar后面的：后指定dic所在目录即可
 '''
-startJVM(getDefaultJVMPath(), "-Djava.class.path=/home/luke/桌面/Test/ansj_seg-5.0.2-all-in-one.jar:/home/luke/桌面/Test/dic", "-Xms1g", "-Xmx1g")
+startJVM(getDefaultJVMPath(), "-Djava.class.path=./ansj_seg-5.0.2-all-in-one.jar:dic", "-Xms1g", "-Xmx1g")
 DicAnalysis = JClass('org.ansj.splitWord.analysis.ToAnalysis')
 
-Result = DicAnalysis.parse("嫩绿茶北城新馆店")
+Result = DicAnalysis.parse("粥公粥婆北城新馆店嫩绿茶")
 
 result = Result.getTerms()
 for item in result:

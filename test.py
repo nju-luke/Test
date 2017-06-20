@@ -2,44 +2,18 @@
 # @Time    : 10/13/16 09:51
 # @Author  : Luke
 # @Software: PyCharm
+import os
+import shutil
 
-import urllib2
-from multiprocessing.dummy import Pool as ThreadPool
 
-urls = [
-    'http://www.python.org',
-    'http://www.python.org/about/',
-    'http://www.onlamp.com/pub/a/python/2003/04/17/metaclasses.html',
-    'http://www.python.org/doc/',
-    'http://www.python.org/download/',
-    'http://www.python.org/getit/',
-    'http://www.python.org/community/',
-    'https://wiki.python.org/moin/',
-    'http://planet.python.org/',
-    'https://wiki.python.org/moin/LocalUserGroups',
-    'http://www.python.org/psf/',
-    'http://docs.python.org/devguide/',
-    'http://www.python.org/community/awards/'
-    # etc..
-    ]
+path = '/Users/hzqb_luke/Downloads/pukeImage'
+names = [name for name in os.listdir(path) if not name.startswith(".")]
 
-# Make the Pool of workers
-class Main():
-    def double(self,n):
-        return 2*n
+C_oir = "S"
+C_new = "s"
 
-    def main(self):
-        def double(n):
-            return 2*n
-
-        pool = ThreadPool(4)
-        # Open the urls in their own threads
-        # and return the results
-        results = pool.map(double, urls)
-        #close the pool and wait for the work to finish
-        pool.close()
-        pool.join()
-
-if __name__ == '__main__':
-    m = Main()
-    m.main()
+for name in names:
+    if name.startswith(C_oir):
+        path_1 = os.path.join(path,name)
+        path_2 = os.path.join(path,name.replace(C_oir,C_new))
+        shutil.move(path_1,path_2)

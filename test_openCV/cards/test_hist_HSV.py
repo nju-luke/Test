@@ -16,7 +16,7 @@ img = cv2.cvtColor(img, cv2.COLOR_BGR2HSV_FULL)[:, :, 0]
 hist1 = cv2.calcHist([img[:, :]], [0], None, [256], [0.0, 255.0])
 hist1 = [i for i in np.squeeze(hist1)]
 
-img = cv2.imread("0012A.jpg")
+img = cv2.imread("3交通银行金卡.jpg")
 # img = remove_logo_u(img)
 img = cv2.cvtColor(img, cv2.COLOR_BGR2HSV_FULL)[:, :, 0]
 
