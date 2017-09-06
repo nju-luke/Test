@@ -4,6 +4,7 @@
 # @Software: PyCharm
 
 from util import *
+import matplotlib.pyplot as plt
 from itertools import groupby
 
 img_rgb = cv2.imread('cards/test3.jpg')

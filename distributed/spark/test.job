@@ -1,0 +1,2 @@
+type=command
+command=spark-submit --master spark://spark0:7077 exp.py --num-executors 1

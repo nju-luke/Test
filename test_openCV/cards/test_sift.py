@@ -16,8 +16,8 @@ img2 = cv2.imread("3交通银行金卡.jpg",0) # trainImage
 
 rows,cols = img1.shape
 
-img1 = remove_logo_u(img1,is_gray)
-img2 = remove_logo_u(img2,is_gray)
+# img1 = remove_logo_u(img1,is_gray)
+# img2 = remove_logo_u(img2,is_gray)
 
 # img1 = np.array(core_LBP(img1),'uint8')
 # img2 = np.array(core_LBP(img2),'uint8')
@@ -35,7 +35,8 @@ MIN_MATCH_COUNT = 10
 
 
 # Initiate SIFT detector
-sift = cv2.SIFT()
+# sift = cv2.SIFT()
+sift = cv2.SURF(500)
 
 # find the keypoints and descriptors with SI
 # FT

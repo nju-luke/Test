@@ -8,9 +8,15 @@ from pyspark import SparkContext
 from pyspark import SparkConf
 
 conf = SparkConf()
-conf.setAppName("test_remote").setMaster("local[*]")#.setMaster("spark://172.16.122.134:7077")
-
+# conf.setAppName("test_remote").setMaster("local[*]")
+conf.setAppName("test_remote").setMaster("spark://localhost:7077")#
+#
 sc = SparkContext(conf=conf)
+
+
+
+
+
 
 def isprime(n):
     """
@@ -39,5 +45,7 @@ def isprime(n):
 # Create an RDD of numbers from 0 to 1,000,000
 nums = sc.parallelize(xrange(1,200))
 
-# Compute the number of primes in the RDD
+# # Compute the number of primes in the RDD
 print nums.filter(isprime).collect()
+#
+# # nums.map(lambda x: x/2).collect()

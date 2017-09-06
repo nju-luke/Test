@@ -7,7 +7,8 @@ import cv2
 from test_openCV.cards.test_crop_and_filter import remove_logo_u
 import matplotlib.pyplot as plt
 import numpy as np
-from test_openCV.test_orb import drawMatches
+
+from test_openCV.cards.test_orb import drawMatches
 
 is_gray = True
 img1 = cv2.imread('测试集3广发金卡3.jpg',0)          # queryImage

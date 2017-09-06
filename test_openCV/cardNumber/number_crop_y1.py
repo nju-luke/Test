@@ -5,6 +5,7 @@
 
 from util import *
 from itertools import groupby
+import matplotlib.pyplot as plt
 
 img_rgb = cv2.imread('cards/test3.jpg')
 
