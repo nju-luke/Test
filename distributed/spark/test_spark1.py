@@ -15,9 +15,6 @@ sc = SparkContext(conf=conf)
 
 
 
-
-
-
 def isprime(n):
     """
     check if integer n is a prime

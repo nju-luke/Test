@@ -2,34 +2,59 @@
 # @Time    : 10/13/16 09:51
 # @Author  : Luke
 # @Software: PyCharm
-from scipy import stats
-from sklearn import mixture
-import numpy as np
-import matplotlib.pyplot as plt
-
-a =np.random.randn(10000)*20+100
-b =np.random.randn(10000)*10+50
-
-x1 = np.histogram(a,100)
-x2 = np.histogram(b,100)
 
 
-
-plt.plot(x1[1][:-1],x1[0])
-plt.plot(x2[1][:-1],x2[0])
-# plt.plot(b)
-# plt.show()
-
-gmm = mixture.GaussianMixture(n_components=2)
-gmm.fit(np.stack([a,b]).reshape(-1,1))
-
-gmm.predict(50)
+import jieba
 
 
-x = np.arange(0,200,1)
-y1 = stats.norm.pdf(x,gmm.means_[0],np.sqrt(gmm.covariances_[0])).reshape(x.shape)*50*a.max()
-y2 = stats.norm.pdf(x,gmm.means_[1],np.sqrt(gmm.covariances_[1])).reshape(x.shape)*50*a.max()
+import os
+LTP_DATA_DIR = '/Users/hzqb_luke/Documents/auxiliary/ltp_data'  # ltp模型目录的路径
 
-plt.plot(x,y1)
-plt.plot(x,y2)
-plt.show()
+
+name = '小胖子龙虾馆建设路店，地址：邯山区浴新南大街178号浴新南大街与农林路交叉口东北角'
+addr = "邯山区浴新南大街178号浴新南大街与农林路交叉口东北角"
+
+cws_model_path = os.path.join(LTP_DATA_DIR, 'cws.model')  # 分词模型路径，模型名称为`cws.model`
+from pyltp import Segmentor
+segmentor = Segmentor()
+segmentor.load(cws_model_path)
+words = segmentor.segment(name)
+print "\t".join(words)
+
+pos_model_path = os.path.join(LTP_DATA_DIR,'pos.model')
+from pyltp import Postagger
+postagger = Postagger()
+postagger.load(pos_model_path)
+words = [word for word in words]
+postags = postagger.postag(words)
+postags = [postag for postag in postags]
+print "\t".join(postags)
+
+
+ner_model_path = os.path.join(LTP_DATA_DIR,'ner.model')
+from pyltp import NamedEntityRecognizer
+recognizer = NamedEntityRecognizer()
+recognizer.load(ner_model_path)
+nertags = recognizer.recognize(words,postags)
+nertags = [nertag for nertag in nertags]
+print "\t".join(nertags)
+
+
+par_model_path=os.path.join(LTP_DATA_DIR,"parser.model")
+from pyltp import Parser
+parser= Parser()
+parser.load(par_model_path)
+arcs = parser.parse(words,postags)
+arcs = ["%d:%s" % (arc.head, arc.relation) for arc in arcs]
+print "\t".join(arcs)
+
+segmentor.release()
+postagger.release()
+recognizer.release()
+parser.release()
+
+print "Done"
+
+
+
+
